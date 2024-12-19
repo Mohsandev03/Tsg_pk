@@ -23,7 +23,7 @@ const TopNavOne: React.FC<Props> = ({ props, slogan }) => {
                     <div className="top-nav-main flex justify-between max-md:justify-center h-full">
                      
                         <div className="text-center text-button-uppercase text-white flex items-center">
-                        <h3>FREE DELIVERY TO YOU - Get Free Standard Delivery On All Orders See Details</h3>
+                        <h3 className='top-bar'>FREE DELIVERY TO YOU - Get Free Standard Delivery On All Orders See Details</h3>
 
                         </div>
                         <div className="right-content flex items-center gap-5 max-md:hidden">
