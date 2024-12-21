@@ -2,7 +2,7 @@
   {
     "id": "1",
     "category": "fashion",
-    "type": "top",
+    "type": "Caps",
     "name": "mesh shirt",
     "gender": "women",
     "new": true,
@@ -56,8 +56,8 @@
   {
     "id": "2",
     "category": "fashion",
-    "type": "t-shirt",
-    "name": "Raglan Sleeve T-shirt",
+    "type": "Bags",
+    "name": "Raglan Sleeve Active",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -122,7 +122,7 @@
   {
     "id": "3",
     "category": "fashion",
-    "type": "dress",
+    "type": "Gloves",
     "name": "Off-the-Shoulder Blouse",
     "gender": "women",
     "new": false,
@@ -174,8 +174,8 @@
   {
     "id": "4",
     "category": "fashion",
-    "type": "t-shirt",
-    "name": "Kimono sleeve top",
+    "type": "Active",
+    "name": "Kimono sleeve Caps",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -228,7 +228,7 @@
   {
     "id": "5",
     "category": "fashion",
-    "type": "dress",
+    "type": "Gloves",
     "name": "mesh shirt",
     "gender": "women",
     "new": true,
@@ -283,7 +283,7 @@
     "id": "6",
     "category": "fashion",
     "type": "sets",
-    "name": "Raglan Sleeve T-shirt",
+    "name": "Raglan Sleeve Active",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -398,7 +398,7 @@
     "id": "8",
     "category": "fashion",
     "type": "sets",
-    "name": "Kimono sleeve top",
+    "name": "Kimono sleeve Caps",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -458,7 +458,7 @@
   {
     "id": "9",
     "category": "fashion",
-    "type": "t-shirt",
+    "type": "Active",
     "name": "mesh shirt",
     "gender": "women",
     "new": true,
@@ -513,8 +513,8 @@
   {
     "id": "10",
     "category": "fashion",
-    "type": "t-shirt",
-    "name": "Raglan Sleeve T-shirt",
+    "type": "Active",
+    "name": "Raglan Sleeve Active",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -576,7 +576,7 @@
   {
     "id": "11",
     "category": "fashion",
-    "type": "t-shirt",
+    "type": "Active",
     "name": "Off-the-Shoulder Blouse",
     "gender": "women",
     "new": false,
@@ -629,7 +629,7 @@
     "id": "12",
     "category": "fashion",
     "type": "sets",
-    "name": "Kimono sleeve top",
+    "name": "Kimono sleeve Caps",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -689,7 +689,7 @@
   {
     "id": "13",
     "category": "fashion",
-    "type": "t-shirt",
+    "type": "Active",
     "name": "mesh shirt",
     "gender": "women",
     "new": true,
@@ -750,7 +750,7 @@
     "id": "14",
     "category": "fashion",
     "type": "sets",
-    "name": "Raglan Sleeve T-shirt",
+    "name": "Raglan Sleeve Active",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -812,7 +812,7 @@
   {
     "id": "15",
     "category": "fashion",
-    "type": "top",
+    "type": "Caps",
     "name": "Off-the-Shoulder Blouse",
     "gender": "women",
     "new": false,
@@ -870,8 +870,8 @@
   {
     "id": "16",
     "category": "fashion",
-    "type": "top",
-    "name": "Kimono sleeve top",
+    "type": "Caps",
+    "name": "Kimono sleeve Caps",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -931,8 +931,8 @@
   {
     "id": "22",
     "category": "fashion",
-    "type": "t-shirt",
-    "name": "T-shirt Pockets",
+    "type": "Active",
+    "name": "Active Pockets",
     "gender": "men",
     "new": false,
     "sale": true,
@@ -987,13 +987,13 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "t-shirt"
+    "slug": "Active"
   },
   {
     "id": "23",
     "category": "fashion",
-    "type": "t-shirt",
-    "name": "T-shirt Pockets",
+    "type": "Active",
+    "name": "Active Pockets",
     "gender": "men",
     "new": false,
     "sale": true,
@@ -1049,12 +1049,12 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "t-shirt"
+    "slug": "Active"
   },
   {
     "id": "17",
     "category": "fashion",
-    "type": "t-shirt",
+    "type": "Active",
     "name": "mesh shirt",
     "gender": "women",
     "new": true,
@@ -1116,7 +1116,7 @@
     "id": "18",
     "category": "fashion",
     "type": "shirt",
-    "name": "Raglan Sleeve T-shirt",
+    "name": "Raglan Sleeve Active",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -1178,7 +1178,7 @@
   {
     "id": "19",
     "category": "fashion",
-    "type": "dress",
+    "type": "Gloves",
     "name": "Off-the-Shoulder Blouse",
     "gender": "women",
     "new": false,
@@ -1236,8 +1236,8 @@
   {
     "id": "20",
     "category": "fashion",
-    "type": "top",
-    "name": "Kimono sleeve top",
+    "type": "Caps",
+    "name": "Kimono sleeve Caps",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -1297,8 +1297,8 @@
   {
     "id": "21",
     "category": "fashion",
-    "type": "t-shirt",
-    "name": "T-shirt Pockets",
+    "type": "Active",
+    "name": "Active Pockets",
     "gender": "men",
     "new": false,
     "sale": true,
@@ -1354,13 +1354,13 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "t-shirt"
+    "slug": "Active"
   },
   {
     "id": "24",
     "category": "fashion",
-    "type": "t-shirt",
-    "name": "T-shirt Pockets",
+    "type": "Active",
+    "name": "Active Pockets",
     "gender": "men",
     "new": false,
     "sale": true,
@@ -1416,13 +1416,13 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "t-shirt"
+    "slug": "Active"
   },
   {
     "id": "241",
     "category": "fashion",
-    "type": "t-shirt",
-    "name": "T-shirt Pockets",
+    "type": "Active",
+    "name": "Active Pockets",
     "gender": "men",
     "new": false,
     "sale": true,
@@ -1464,7 +1464,7 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "t-shirt"
+    "slug": "Active"
   },
   {
     "id": "25",
@@ -1526,13 +1526,13 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "t-shirt"
+    "slug": "Active"
   },
   {
     "id": "26",
     "category": "fashion",
     "type": "shirt",
-    "name": "T-shirt Pockets",
+    "name": "Active Pockets",
     "gender": "men",
     "new": false,
     "sale": true,
@@ -1588,13 +1588,13 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "t-shirt"
+    "slug": "Active"
   },
   {
     "id": "27",
     "category": "fashion",
     "type": "shirt",
-    "name": "T-shirt Pockets",
+    "name": "Bags Pockets",
     "gender": "men",
     "new": false,
     "sale": true,
@@ -1650,13 +1650,13 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "t-shirt"
+    "slug": "Bags"
   },
   {
     "id": "28",
     "category": "fashion",
     "type": "underwear",
-    "name": "Kimono sleeve top",
+    "name": "Kimono sleeve Caps",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -1778,7 +1778,7 @@
     "id": "30",
     "category": "fashion",
     "type": "swimwear",
-    "name": "Raglan Sleeve T-shirt",
+    "name": "Raglan Sleeve Bags",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -1899,7 +1899,7 @@
     "id": "32",
     "category": "fashion",
     "type": "swimwear",
-    "name": "Kimono sleeve top",
+    "name": "Kimono sleeve Caps",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -1960,7 +1960,7 @@
     "id": "33",
     "category": "fashion",
     "type": "underwear",
-    "name": "T-shirt Pockets",
+    "name": "Bags Pockets",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -2016,13 +2016,13 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "t-shirt"
+    "slug": "Bags"
   },
   {
     "id": "34",
     "category": "fashion",
     "type": "underwear",
-    "name": "T-shirt Pockets",
+    "name": "Bags Pockets",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -2071,13 +2071,13 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "t-shirt"
+    "slug": "Bags"
   },
   {
     "id": "35",
     "category": "fashion",
     "type": "swimwear",
-    "name": "T-shirt Pockets",
+    "name": "Bags Pockets",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -2127,13 +2127,13 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "t-shirt"
+    "slug": "Bags"
   },
   {
     "id": "36",
     "category": "fashion",
     "type": "swimwear",
-    "name": "T-shirt Pockets",
+    "name": "Bags Pockets",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -2177,7 +2177,7 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "t-shirt"
+    "slug": "Bags"
   },
   {
     "id": "37",
@@ -2233,13 +2233,13 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "t-shirt"
+    "slug": "Bags"
   },
   {
     "id": "38",
     "category": "fashion",
     "type": "swimwear",
-    "name": "T-shirt Pockets",
+    "name": "Bags Pockets",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -2283,13 +2283,13 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "t-shirt"
+    "slug": "Bags"
   },
   {
     "id": "39",
     "category": "fashion",
     "type": "swimwear",
-    "name": "T-shirt Pockets",
+    "name": "Bags Pockets",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -2339,7 +2339,7 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "t-shirt"
+    "slug": "Bags"
   },
   {
     "id": "391",
@@ -2520,7 +2520,7 @@
     "id": "396",
     "category": "fashion",
     "type": "accessories",
-    "name": "T-shirt",
+    "name": "Bags",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -2553,9 +2553,9 @@
   },
   {
     "id": "40",
-    "category": "cosmetic",
-    "type": "face",
-    "name": "Face Treatment",
+    "category": "fashion",
+    "type": "Biker",
+    "name": "Biker Treatment",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -2596,13 +2596,13 @@
     ],
     "description": "The garments labelled as Committed are products that have been produced using sustainable fibres or processes, reducing their environmental impact.",
     "action": "add to cart",
-    "slug": "cosmetic"
+    "slug": "fashion"
   },
   {
     "id": "41",
-    "category": "cosmetic",
-    "type": "face",
-    "name": "Face Tan Booster",
+    "category": "fashion",
+    "type": "Winter",
+    "name": "Winter Tan Booster",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -2643,20 +2643,20 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "cosmetic"
+    "slug": "fashion"
   },
   {
     "id": "45",
-    "category": "cosmetic",
-    "type": "eye",
-    "name": "Tinted Eye Balm",
+    "category": "fashion",
+    "type": "Winter",
+    "name": "Tinted Winter Balm",
     "gender": "women",
     "new": true,
     "sale": false,
     "rate": 4,
     "price": 20,
     "originPrice": 25,
-    "brand": "eyeoil",
+    "brand": "Winteroil",
     "sold": 24,
     "quantity": 100,
     "quantityPurchase": 1,
@@ -2689,20 +2689,20 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "cosmetic"
+    "slug": "fashion"
   },
   {
     "id": "46",
-    "category": "cosmetic",
-    "type": "eye",
-    "name": "Tinted Eye Balm",
+    "category": "fashion",
+    "type": "Winter",
+    "name": "Tinted Casual Balm",
     "gender": "women",
     "new": true,
     "sale": false,
     "rate": 4,
     "price": 20,
     "originPrice": 25,
-    "brand": "eyeoil",
+    "brand": "Casualoil",
     "sold": 24,
     "quantity": 100,
     "quantityPurchase": 1,
@@ -2735,13 +2735,13 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "cosmetic"
+    "slug": "fashion"
   },
   {
     "id": "47",
-    "category": "cosmetic",
-    "type": "nail",
-    "name": "Nail Treatment",
+    "category": "fashion",
+    "type": "Casual",
+    "name": "Casual Treatment",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -2781,13 +2781,13 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "cosmetic"
+    "slug": "fashion"
   },
   {
     "id": "48",
-    "category": "cosmetic",
-    "type": "nail",
-    "name": "Nail After Moon",
+    "category": "fashion",
+    "type": "Casual",
+    "name": "Casual After Moon",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -2827,12 +2827,12 @@
     ],
     "description": "The garments labelled as Committed are products that have been produced using sustainable fibres or processes, reducing their environmental impact.",
     "action": "quick shop",
-    "slug": "cosmetic"
+    "slug": "fashion"
   },
   {
     "id": "49",
-    "category": "cosmetic",
-    "type": "eye",
+    "category": "fashion",
+    "type": "Casual",
     "name": "Tinted Moisturiser",
     "gender": "women",
     "new": false,
@@ -2840,7 +2840,7 @@
     "rate": 5,
     "price": 20,
     "originPrice": 25,
-    "brand": "eyeoil",
+    "brand": "Casualoil",
     "sold": 24,
     "quantity": 100,
     "quantityPurchase": 1,
@@ -2868,13 +2868,13 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "cosmetic"
+    "slug": "fashion"
   },
   {
     "id": "43",
-    "category": "cosmetic",
-    "type": "hair",
-    "name": "Hair Treatment",
+    "category": "fashion",
+    "type": "Formal",
+    "name": "Formal Treatment",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -2916,13 +2916,13 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "cosmetic"
+    "slug": "fashion"
   },
   {
     "id": "50",
-    "category": "cosmetic",
-    "type": "lip",
-    "name": "Lip Top Treatment",
+    "category": "fashion",
+    "type": "Biker",
+    "name": "Biker Caps Treatment",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -2962,13 +2962,13 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "cosmetic"
+    "slug": "fashion"
   },
   {
     "id": "51",
-    "category": "cosmetic",
-    "type": "Lip",
-    "name": "Lip Tan Booster",
+    "category": "fashion",
+    "type": "Biker",
+    "name": "Biker Tan Booster",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -3008,12 +3008,12 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "cosmetic"
+    "slug": "fashion"
   },
   {
     "id": "44",
-    "category": "cosmetic",
-    "type": "hair",
+    "category": "fashion",
+    "type": "Formal",
     "name": "After Sun - tan Booster",
     "gender": "women",
     "new": true,
@@ -3056,12 +3056,12 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "cosmetic"
+    "slug": "fashion"
   },
   {
     "id": "42",
-    "category": "cosmetic",
-    "type": "hair",
+    "category": "fashion",
+    "type": "Formal",
     "name": "Tinted Moisturiser",
     "gender": "women",
     "new": false,
@@ -3104,13 +3104,13 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "cosmetic"
+    "slug": "fashion"
   },
   {
     "id": "52",
-    "category": "cosmetic",
-    "type": "lip",
-    "name": "Tinted lip Balm",
+    "category": "fashion",
+    "type": "Biker",
+    "name": "Tinted Biker Balm",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -3151,13 +3151,13 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "cosmetic"
+    "slug": "fashion"
   },
   {
     "id": "53",
-    "category": "cosmetic",
-    "type": "eye",
-    "name": "Tinted eye Balm",
+    "category": "fashion",
+    "type": "Winter",
+    "name": "Tinted Winter Balm",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -3198,7 +3198,7 @@
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "cosmetic"
+    "slug": "fashion"
   },
   {
     "id": "54",
@@ -4178,8 +4178,8 @@
   {
     "id": "86",
     "category": "furniture",
-    "type": "chair",
-    "name": "sofa chair",
+    "type": "cFormal",
+    "name": "sofa cFormal",
     "gender": "both",
     "new": false,
     "sale": true,
@@ -4214,8 +4214,8 @@
   {
     "id": "73",
     "category": "furniture",
-    "type": "chair",
-    "name": "wood chair",
+    "type": "cFormal",
+    "name": "wood cFormal",
     "gender": "both",
     "new": true,
     "sale": false,
@@ -4250,8 +4250,8 @@
   {
     "id": "75",
     "category": "furniture",
-    "type": "chair",
-    "name": "wood chair",
+    "type": "cFormal",
+    "name": "wood cFormal",
     "gender": "both",
     "new": true,
     "sale": false,
@@ -4292,8 +4292,8 @@
   {
     "id": "76",
     "category": "furniture",
-    "type": "chair",
-    "name": "chair furniture",
+    "type": "cFormal",
+    "name": "cFormal furniture",
     "gender": "both",
     "new": false,
     "sale": true,
@@ -4334,8 +4334,8 @@
   {
     "id": "72",
     "category": "furniture",
-    "type": "chair",
-    "name": "chair furniture",
+    "type": "cFormal",
+    "name": "cFormal furniture",
     "gender": "both",
     "new": false,
     "sale": true,
@@ -4370,8 +4370,8 @@
   {
     "id": "77",
     "category": "furniture",
-    "type": "chair",
-    "name": "wood chair",
+    "type": "cFormal",
+    "name": "wood cFormal",
     "gender": "both",
     "new": true,
     "sale": false,
@@ -4412,8 +4412,8 @@
   {
     "id": "74",
     "category": "furniture",
-    "type": "chair",
-    "name": "chair furniture",
+    "type": "cFormal",
+    "name": "cFormal furniture",
     "gender": "both",
     "new": false,
     "sale": true,
@@ -4491,8 +4491,8 @@
   {
     "id": "80",
     "category": "furniture",
-    "type": "chair",
-    "name": "stainless steel chair",
+    "type": "cFormal",
+    "name": "stainless steel cFormal",
     "gender": "both",
     "new": true,
     "sale": false,
@@ -4527,8 +4527,8 @@
   {
     "id": "81",
     "category": "furniture",
-    "type": "chair",
-    "name": "aluminium chair",
+    "type": "cFormal",
+    "name": "aluminium cFormal",
     "gender": "both",
     "new": false,
     "sale": true,
@@ -6323,9 +6323,9 @@
   },
   {
     "id": "123",
-    "category": "organic",
+    "category": "fashion",
     "type": "vegetables",
-    "name": "green cabbage organic",
+    "name": "green cabbage fashion",
     "gender": "both",
     "new": true,
     "sale": false,
@@ -6354,15 +6354,15 @@
       "/images/product/1000x1000.png",
       "/images/product/1000x1000.png"
     ],
-    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio organic. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with organic from Onita organic!",
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio fashion. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with fashion from Onita fashion!",
     "action": "quick shop",
-    "slug": "organic"
+    "slug": "fashion"
   },
   {
     "id": "124",
-    "category": "organic",
+    "category": "fashion",
     "type": "vegetables",
-    "name": "purple cabbage organic",
+    "name": "purple cabbage fashion",
     "gender": "both",
     "new": false,
     "sale": true,
@@ -6391,13 +6391,13 @@
       "/images/product/1000x1000.png",
       "/images/product/1000x1000.png"
     ],
-    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio organic. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with organic from Onita organic!",
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio fashion. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with fashion from Onita fashion!",
     "action": "add to cart",
-    "slug": "organic"
+    "slug": "fashion"
   },
   {
     "id": "125",
-    "category": "organic",
+    "category": "fashion",
     "type": "vegetables",
     "name": "Tinted Moisturiser",
     "gender": "both",
@@ -6428,15 +6428,15 @@
       "/images/product/1000x1000.png",
       "/images/product/1000x1000.png"
     ],
-    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio organic. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with organic from Onita organic!",
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio fashion. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with fashion from Onita fashion!",
     "action": "quick shop",
-    "slug": "organic"
+    "slug": "fashion"
   },
   {
     "id": "126",
-    "category": "organic",
+    "category": "fashion",
     "type": "vegetables",
-    "name": "purple cabbage organic",
+    "name": "purple cabbage fashion",
     "gender": "both",
     "new": false,
     "sale": true,
@@ -6464,15 +6464,15 @@
       "/images/product/1000x1000.png",
       "/images/product/1000x1000.png"
     ],
-    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio organic. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with organic from Onita organic!",
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio fashion. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with fashion from Onita fashion!",
     "action": "add to cart",
-    "slug": "organic"
+    "slug": "fashion"
   },
   {
     "id": "127",
-    "category": "organic",
+    "category": "fashion",
     "type": "vegetables",
-    "name": "green cabbage organic",
+    "name": "green cabbage fashion",
     "gender": "both",
     "new": true,
     "sale": false,
@@ -6500,15 +6500,15 @@
       "/images/product/1000x1000.png",
       "/images/product/1000x1000.png"
     ],
-    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio organic. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with organic from Onita organic!",
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio fashion. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with fashion from Onita fashion!",
     "action": "quick shop",
-    "slug": "organic"
+    "slug": "fashion"
   },
   {
     "id": "128",
-    "category": "organic",
+    "category": "fashion",
     "type": "vegetables",
-    "name": "green cai organic",
+    "name": "green cai fashion",
     "gender": "both",
     "new": false,
     "sale": true,
@@ -6537,15 +6537,15 @@
       "/images/product/1000x1000.png",
       "/images/product/1000x1000.png"
     ],
-    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio organic. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with organic from Onita organic!",
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio fashion. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with fashion from Onita fashion!",
     "action": "add to cart",
-    "slug": "organic"
+    "slug": "fashion"
   },
   {
     "id": "129",
-    "category": "organic",
+    "category": "fashion",
     "type": "vegetables",
-    "name": "yellow cabbage organic",
+    "name": "yellow cabbage fashion",
     "gender": "both",
     "new": true,
     "sale": false,
@@ -6574,15 +6574,15 @@
       "/images/product/1000x1000.png",
       "/images/product/1000x1000.png"
     ],
-    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio organic. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with organic from Onita organic!",
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio fashion. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with fashion from Onita fashion!",
     "action": "quick shop",
-    "slug": "organic"
+    "slug": "fashion"
   },
   {
     "id": "130",
-    "category": "organic",
+    "category": "fashion",
     "type": "vegetables",
-    "name": "purple cabbage organic",
+    "name": "purple cabbage fashion",
     "gender": "both",
     "new": false,
     "sale": true,
@@ -6611,15 +6611,15 @@
       "/images/product/1000x1000.png",
       "/images/product/1000x1000.png"
     ],
-    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio organic. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with organic from Onita organic!",
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio fashion. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with fashion from Onita fashion!",
     "action": "add to cart",
-    "slug": "organic"
+    "slug": "fashion"
   },
   {
     "id": "131",
-    "category": "organic",
+    "category": "fashion",
     "type": "meat",
-    "name": "green beef organic",
+    "name": "green beef fashion",
     "gender": "both",
     "new": true,
     "sale": false,
@@ -6647,15 +6647,15 @@
       "/images/product/1000x1000.png",
       "/images/product/1000x1000.png"
     ],
-    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio organic. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with organic from Onita organic!",
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio fashion. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with fashion from Onita fashion!",
     "action": "quick shop",
-    "slug": "organic"
+    "slug": "fashion"
   },
   {
     "id": "132",
-    "category": "organic",
+    "category": "fashion",
     "type": "meat",
-    "name": "purple pork organic",
+    "name": "purple pork fashion",
     "gender": "both",
     "new": false,
     "sale": true,
@@ -6683,15 +6683,15 @@
       "/images/product/1000x1000.png",
       "/images/product/1000x1000.png"
     ],
-    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio organic. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with organic from Onita organic!",
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio fashion. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with fashion from Onita fashion!",
     "action": "add to cart",
-    "slug": "organic"
+    "slug": "fashion"
   },
   {
     "id": "133",
-    "category": "organic",
+    "category": "fashion",
     "type": "meat",
-    "name": "fish organic",
+    "name": "fish fashion",
     "gender": "both",
     "new": true,
     "sale": false,
@@ -6719,15 +6719,15 @@
       "/images/product/1000x1000.png",
       "/images/product/1000x1000.png"
     ],
-    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio organic. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with organic from Onita organic!",
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio fashion. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with fashion from Onita fashion!",
     "action": "quick shop",
-    "slug": "organic"
+    "slug": "fashion"
   },
   {
     "id": "134",
-    "category": "organic",
+    "category": "fashion",
     "type": "meat",
-    "name": "purple cabbage organic",
+    "name": "purple cabbage fashion",
     "gender": "both",
     "new": false,
     "sale": true,
@@ -6755,22 +6755,22 @@
       "/images/product/1000x1000.png",
       "/images/product/1000x1000.png"
     ],
-    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio organic. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with organic from Onita organic!",
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio fashion. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with fashion from Onita fashion!",
     "action": "add to cart",
-    "slug": "organic"
+    "slug": "fashion"
   },
   {
     "id": "135",
-    "category": "organic",
-    "type": "fruit",
-    "name": "apple organic",
+    "category": "fashion",
+    "type": "Biker",
+    "name": "apple fashion",
     "gender": "both",
     "new": true,
     "sale": false,
     "rate": 5,
     "price": 8,
     "originPrice": 10,
-    "brand": "fruit",
+    "brand": "Biker",
     "sold": 24,
     "quantity": 80,
     "quantityPurchase": 1,
@@ -6791,22 +6791,22 @@
       "/images/product/1000x1000.png",
       "/images/product/1000x1000.png"
     ],
-    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio organic. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with organic from Onita organic!",
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio fashion. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with fashion from Onita fashion!",
     "action": "quick shop",
-    "slug": "organic"
+    "slug": "fashion"
   },
   {
     "id": "136",
-    "category": "organic",
-    "type": "fruit",
-    "name": "passion fruit organic",
+    "category": "fashion",
+    "type": "Biker",
+    "name": "passion Biker fashion",
     "gender": "both",
     "new": false,
     "sale": true,
     "rate": 5,
     "price": 6,
     "originPrice": 8,
-    "brand": "fruit",
+    "brand": "Biker",
     "sold": 24,
     "quantity": 80,
     "quantityPurchase": 1,
@@ -6827,22 +6827,22 @@
       "/images/product/1000x1000.png",
       "/images/product/1000x1000.png"
     ],
-    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio organic. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with organic from Onita organic!",
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio fashion. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with fashion from Onita fashion!",
     "action": "add to cart",
-    "slug": "organic"
+    "slug": "fashion"
   },
   {
     "id": "137",
-    "category": "organic",
-    "type": "fruit",
-    "name": "kiwi organic",
+    "category": "fashion",
+    "type": "Biker",
+    "name": "kiwi fashion",
     "gender": "both",
     "new": true,
     "sale": false,
     "rate": 5,
     "price": 9,
     "originPrice": 11,
-    "brand": "fruit",
+    "brand": "Biker",
     "sold": 24,
     "quantity": 80,
     "quantityPurchase": 1,
@@ -6863,22 +6863,22 @@
       "/images/product/1000x1000.png",
       "/images/product/1000x1000.png"
     ],
-    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio organic. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with organic from Onita organic!",
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio fashion. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with fashion from Onita fashion!",
     "action": "quick shop",
-    "slug": "organic"
+    "slug": "fashion"
   },
   {
     "id": "138",
-    "category": "organic",
-    "type": "fruit",
-    "name": "dragon fruit organic",
+    "category": "fashion",
+    "type": "Biker",
+    "name": "dragon Biker fashion",
     "gender": "both",
     "new": false,
     "sale": true,
     "rate": 5,
     "price": 7,
     "originPrice": 9,
-    "brand": "fruit",
+    "brand": "Biker",
     "sold": 24,
     "quantity": 80,
     "quantityPurchase": 1,
@@ -6899,9 +6899,9 @@
       "/images/product/1000x1000.png",
       "/images/product/1000x1000.png"
     ],
-    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio organic. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with organic from Onita organic!",
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio fashion. Traditionally designed, they are perfect to be used in the any place where you need to store. Bring one-of-a-kind look to your interior with fashion from Onita fashion!",
     "action": "add to cart",
-    "slug": "organic"
+    "slug": "fashion"
   },
   {
     "id": "139",
@@ -7094,7 +7094,7 @@
   {
     "id": "143",
     "category": "fashion",
-    "type": "dress",
+    "type": "Gloves",
     "name": "Off-the-Shoulder Blouse",
     "gender": "women",
     "new": false,

@@ -10,11 +10,11 @@ import 'swiper/css/bundle';
 const Instagram = () => {
     return (
         <>
-            <div className="instagram-block md:pt-20 pt-10">
+            <div className="instagram-block  ">
                 <div className="container">
                     <div className="heading">
-                        <div className="heading3 text-center">Anvogue On Instagram</div>
-                        <div className="text-center mt-3">#Anvougetheme</div>
+                        <div className="heading3 text-center">CERAHI TSG PK</div>
+                        <div className="text-center mt-3">#cerahi-tsg-pk</div>
                     </div>
                     <div className="list-instagram md:mt-10 mt-6">
                         <Swiper
@@ -47,7 +47,7 @@ const Instagram = () => {
                             <SwiperSlide>
                                 <Link href={'https://www.instagram.com/'} target='_blank' className="item relative block rounded-[32px] overflow-hidden">
                                     <Image
-                                        src={'/images/instagram/1.png'}
+                                        src={'/images/instagram/instBiker.png'}
                                         width={300}
                                         height={300}
                                         alt='1'
@@ -61,7 +61,7 @@ const Instagram = () => {
                             <SwiperSlide>
                                 <Link href={'https://www.instagram.com/'} target='_blank' className="item relative block rounded-[32px] overflow-hidden">
                                     <Image
-                                        src={'/images/instagram/2.png'}
+                                        src={'/images/instagram/instBiker.png'}
                                         width={300}
                                         height={300}
                                         alt='1'
@@ -75,7 +75,7 @@ const Instagram = () => {
                             <SwiperSlide>
                                 <Link href={'https://www.instagram.com/'} target='_blank' className="item relative block rounded-[32px] overflow-hidden">
                                     <Image
-                                        src={'/images/instagram/3.png'}
+                                        src={'/images/instagram/instBiker.png'}
                                         width={300}
                                         height={300}
                                         alt='1'
@@ -89,7 +89,7 @@ const Instagram = () => {
                             <SwiperSlide>
                                 <Link href={'https://www.instagram.com/'} target='_blank' className="item relative block rounded-[32px] overflow-hidden">
                                     <Image
-                                        src={'/images/instagram/4.png'}
+                                        src={'/images/instagram/instBiker.png'}
                                         width={300}
                                         height={300}
                                         alt='1'
@@ -103,7 +103,7 @@ const Instagram = () => {
                             <SwiperSlide>
                                 <Link href={'https://www.instagram.com/'} target='_blank' className="item relative block rounded-[32px] overflow-hidden">
                                     <Image
-                                        src={'/images/instagram/5.png'}
+                                        src={'/images/instagram/instBiker.png'}
                                         width={300}
                                         height={300}
                                         alt='1'

@@ -15,12 +15,14 @@ interface Props {
 }
 
 const NewArrival: React.FC<Props> = ({ data, start, limit }) => {
-    const [activeTab, setActiveTab] = useState<string>('Active'); // Default tab set to 'Active'
+    // Default tab set to 'Casual'
+    const [activeTab, setActiveTab] = useState<string>('Casual');
 
     const handleTabClick = (type: string) => {
         setActiveTab(type);
     };
 
+    // Filter products based on the active tab and 'fashion' category
     const filteredProducts = data.filter((product) => product.type === activeTab && (product.category === 'fashion'));
 
     return (
@@ -28,9 +30,9 @@ const NewArrival: React.FC<Props> = ({ data, start, limit }) => {
             <div className="tab-features-block md:pt-20 pt-10">
                 <div className="container">
                     <div className="heading flex items-center justify-between gap-5 gap-y-3 flex-wrap">
-                        <div className="heading3">Sports Wear</div>
+                        <div className="heading3">Leather Jackets</div>
                         <div className="menu-tab flex items-center gap-2 p-1 bg-surface rounded-2xl">
-                            {['Active', 'Bags', 'Gloves', 'Caps'].map((type, index) => (
+                            {['Casual', 'Formal', 'Biker', 'Winter'].map((type, index) => (
                                 <div
                                     key={index}
                                     className={`tab-item relative text-secondary text-button-uppercase py-2 px-5 cursor-pointer duration-500 hover:text-black 
@@ -47,7 +49,7 @@ const NewArrival: React.FC<Props> = ({ data, start, limit }) => {
                             ))}
                         </div>
                     </div>
-                    <div className="list-product hide-product-sold  section-swiper-navigation style-outline style-center style-small-border md:mt-10 mt-6">
+                    <div className="list-product hide-product-sold section-swiper-navigation style-outline style-center style-small-border md:mt-10 mt-6">
                         <Swiper
                             spaceBetween={12}
                             slidesPerView={2}

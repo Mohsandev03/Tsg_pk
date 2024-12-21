@@ -6,8 +6,7 @@ import TopNavOne from '@/components/Header/TopNav/TopNavOne'
 import MenuOne from '@/components/Header/Menu/MenuOne'
 import Breadcrumb from '@/components/Breadcrumb/Breadcrumb';
 import blogData from '@/data/Blog.json'
-import BlogItem from '@/components/Blog/BlogItem';
-import Footer from '@/components/Footer/Footer'
+ import Footer from '@/components/Footer/Footer'
 import HandlePagination from '@/components/Other/HandlePagination'
 import { useRouter } from 'next/navigation'
 import * as Icon from "@phosphor-icons/react/dist/ssr";
