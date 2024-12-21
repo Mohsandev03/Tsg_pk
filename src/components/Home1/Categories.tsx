@@ -24,35 +24,37 @@ const CombinedComponent: React.FC<Props> = ({ data }) => {
   return (
     <>
       <div className="tabs-container pt-10">
-      <div className="heading3 text-center pb-10">Explore our Categories</div>
+        <div className="heading3 text-center pb-10">Explore our Categories</div>
 
         {/* Tabs for switching between categories and products */}
-        <div className="menu-tab flex items-center gap-2 p-2 bg-surface rounded-2xl mt-6 justify-center">
-          {[
-            "Sports Wear",
-            "Fitness Wear",
-            "Leather Jacket",
-            "Sports Bags",
-            "Hunting Gear",
-          ].map((tab) => (
-            <div
-              key={tab}
-              className={`tab-item relative text-secondary text-button-uppercase py-2 px-5 cursor-pointer duration-500 hover:text-black ${
-                activeTab === tab ? "active" : ""
-              }`}
-              onClick={() => handleTabClick(tab)}
-            >
-              {activeTab === tab && (
-                <motion.div
-                  layoutId="active-pill"
-                  className="absolute inset-0 rounded-2xl bg-white"
-                ></motion.div>
-              )}
-              <span className="relative text-button-uppercase z-[1]">
-                {tab}
-              </span>
-            </div>
-          ))}
+        <div className="menu-tab-container mt-4 p-2 bg-surface rounded-3xl overflow-x-auto w-full max-w-[780px] mx-auto">
+          <div className="menu-tab flex gap-2 justify-start flex-nowrap py-2">
+            {[
+              "Sports Wear",
+              "Fitness Wear",
+              "Leather Jacket",
+              "Sports Bags",
+              "Hunting Gear",
+            ].map((tab) => (
+              <div
+                key={tab}
+                className={`tab-item relative text-secondary text-button-uppercase text-center py-2 px-3 cursor-pointer duration-500 hover:text-black min-w-[120px] flex-shrink-0 ${
+                  activeTab === tab ? "active" : ""
+                }`}
+                onClick={() => handleTabClick(tab)}
+              >
+                {activeTab === tab && (
+                  <motion.div
+                    layoutId="active-pill"
+                    className="absolute inset-0 rounded-2xl bg-white"
+                  ></motion.div>
+                )}
+                <span className="relative text-button-uppercase z-[1]">
+                  {tab}
+                </span>
+              </div>
+            ))}
+          </div>
         </div>
 
         {/* Categories Section */}
@@ -161,7 +163,7 @@ const CombinedComponent: React.FC<Props> = ({ data }) => {
                       />
                     </div>
                     <div className="collection-name heading6 text-center sm:bottom-[30px] bottom-4 lg:w-[200px] md:w-auto max-lg:px-5 lg:py-3 py-1.5 bg-white rounded-xl duration-500">
-                    Gym Wear
+                      Gym Wear
                     </div>
                   </div>
                 </div>
@@ -181,7 +183,7 @@ const CombinedComponent: React.FC<Props> = ({ data }) => {
                         />
                       </div>
                       <div className="collection-name heading6 text-center sm:bottom-[30px] bottom-4 lg:w-[200px] md:w-auto max-lg:px-5 lg:py-3 py-1.5 bg-white rounded-xl duration-500">
-                      Leggings
+                        Leggings
                       </div>
                     </div>
                     <div
@@ -198,7 +200,7 @@ const CombinedComponent: React.FC<Props> = ({ data }) => {
                         />
                       </div>
                       <div className="collection-name heading6 text-center sm:bottom-[30px] bottom-4 lg:w-[200px] md:w-auto max-lg:px-5 lg:py-3 py-1.5 bg-white rounded-xl duration-500">
-                      Sports Bras
+                        Sports Bras
                       </div>
                     </div>
                   </div>
@@ -217,7 +219,7 @@ const CombinedComponent: React.FC<Props> = ({ data }) => {
                         />
                       </div>
                       <div className="collection-name heading6 text-center sm:bottom-[30px] bottom-4 lg:w-[200px] md:w-auto max-lg:px-5 lg:py-3 py-1.5 bg-white rounded-xl duration-500">
-                      Breathable Tops
+                        Breathable Tops
                       </div>
                     </div>
                   </div>
@@ -332,7 +334,7 @@ const CombinedComponent: React.FC<Props> = ({ data }) => {
                       />
                     </div>
                     <div className="collection-name heading6 text-center sm:bottom-[30px] bottom-4 lg:w-[200px] md:w-auto max-lg:px-5 lg:py-3 py-1.5 bg-white rounded-xl duration-500">
-                    Duffel Bags
+                      Duffel Bags
                     </div>
                   </div>
                 </div>
@@ -352,7 +354,7 @@ const CombinedComponent: React.FC<Props> = ({ data }) => {
                         />
                       </div>
                       <div className="collection-name heading6 text-center sm:bottom-[30px] bottom-4 lg:w-[200px] md:w-auto max-lg:px-5 lg:py-3 py-1.5 bg-white rounded-xl duration-500">
-                      Backpacks 
+                        Backpacks
                       </div>
                     </div>
                     <div
@@ -369,7 +371,7 @@ const CombinedComponent: React.FC<Props> = ({ data }) => {
                         />
                       </div>
                       <div className="collection-name heading6 text-center sm:bottom-[30px] bottom-4 lg:w-[200px] md:w-auto max-lg:px-5 lg:py-3 py-1.5 bg-white rounded-xl duration-500">
-                      Shoe Bags
+                        Shoe Bags
                       </div>
                     </div>
                   </div>
@@ -388,7 +390,7 @@ const CombinedComponent: React.FC<Props> = ({ data }) => {
                         />
                       </div>
                       <div className="collection-name heading6 text-center sm:bottom-[30px] bottom-4 lg:w-[200px] md:w-auto max-lg:px-5 lg:py-3 py-1.5 bg-white rounded-xl duration-500">
-                      Gym Bags
+                        Gym Bags
                       </div>
                     </div>
                   </div>
@@ -417,7 +419,7 @@ const CombinedComponent: React.FC<Props> = ({ data }) => {
                       />
                     </div>
                     <div className="collection-name heading6 text-center sm:bottom-[30px] bottom-4 lg:w-[200px] md:w-auto max-lg:px-5 lg:py-3 py-1.5 bg-white rounded-xl duration-500">
-                    Clothing
+                      Clothing
                     </div>
                   </div>
                 </div>
@@ -437,7 +439,7 @@ const CombinedComponent: React.FC<Props> = ({ data }) => {
                         />
                       </div>
                       <div className="collection-name heading6 text-center sm:bottom-[30px] bottom-4 lg:w-[200px] md:w-auto max-lg:px-5 lg:py-3 py-1.5 bg-white rounded-xl duration-500">
-                      Knives & Tools
+                        Knives & Tools
                       </div>
                     </div>
                     <div
@@ -446,7 +448,7 @@ const CombinedComponent: React.FC<Props> = ({ data }) => {
                     >
                       <div className="bg-img h-full">
                         <Image
-                          src={"/images/collection/Scopes.png"}
+                          src={"/images/collection/Biker.png"}
                           width={1000}
                           height={1000}
                           alt="hair"
@@ -454,7 +456,7 @@ const CombinedComponent: React.FC<Props> = ({ data }) => {
                         />
                       </div>
                       <div className="collection-name heading6 text-center sm:bottom-[30px] bottom-4 lg:w-[200px] md:w-auto max-lg:px-5 lg:py-3 py-1.5 bg-white rounded-xl duration-500">
-                      Optics & Scopes
+                        Optics & Scopes
                       </div>
                     </div>
                   </div>
@@ -473,7 +475,7 @@ const CombinedComponent: React.FC<Props> = ({ data }) => {
                         />
                       </div>
                       <div className="collection-name heading6 text-center sm:bottom-[30px] bottom-4 lg:w-[200px] md:w-auto max-lg:px-5 lg:py-3 py-1.5 bg-white rounded-xl duration-500">
-                      Rifles & Shotguns
+                        Rifles & Shotguns
                       </div>
                     </div>
                   </div>

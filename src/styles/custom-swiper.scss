@@ -5,14 +5,16 @@
 // .slider-main.h-full.w-full{
 //     background: #7d0a2c;
 // }
-
-
-
-.menu-tab.flex.items-center.gap-2.p-2.bg-surface.rounded-2xl.mt-6.justify-center{
-    margin: 0px 230px;
+// .menu-tab-container.mt-4.p-2.bg-surface.rounded-3xl.overflow-x-auto.w-full.max-w-\[780px\].mx-auto{
+//     margin: 10px 0px;
+// }
+.tabs-container.pt-10 {
+    margin: 10px 10px;
 }
 
 
+ 
+  
 @media only screen and (max-width: 768px)  {
     .sub-img{
 margin-top:57px;
@@ -20,6 +22,36 @@ margin-top:57px;
     h3.top-bar {
         font-size: 8px !important;
     }
+ 
+ 
+.heading3.text-center.pb-10{
+    padding-bottom: 10px;
+}
+.tabs-container.pt-10{
+    padding-top: 20px;
+}
+.collection-name.heading6.text-center.sm\:bottom-\[30px\].bottom-4.lg\:w-\[200px\].md\:w-auto.max-lg\:px-5.lg\:py-3.py-1\.5.bg-white.rounded-xl.duration-500 {
+    width: 150px;
+}
+a.button-main.md\:mt-8 {
+    margin-top: 20px;
+}
+.benefit-block.md\:py-20 {
+    padding: 40px 0px;
+}
+.benefit-block.md\:py-20 {
+    padding: 30px 0px;
+}
+.tabs-container.pt-10 {
+    padding-top: 0px;
+}
+.lookbook-block.cos1.bg-surface.py-10.md\:mt-20{
+    margin: 40px 0px 20px 0px;
+    padding: 10px 0px;
+}
+.menu-tab-container.mt-4.p-2.bg-surface.rounded-3xl.overflow-x-auto.w-full.max-w-\[780px\].mx-auto{
+    margin: 10px 0px;
+}
 }
 
 
