@@ -10,7 +10,7 @@ import 'swiper/css/bundle';
 const Brand = () => {
     return (
         <>
-            <div className="brand-block md:py-[60px] py-[32px]">
+            <div className="brand-block md:py-[60px] py-[32px] py-10">
                 <div className="container">
                     <div className="list-brand">
                         <Swiper
