@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-undef */
 "use client";
 import React from "react";
 import Image from "next/image";
@@ -8,14 +9,13 @@ import Benefit from "@/components/Home1/Benefit";
 import Newsletter from "@/components/Home1/Newsletter";
 import History from "@/components/Home1/History";
 // import FreeShipping from "@/components/Home1/FreeShipping";
-
-
+import AchievementsSection from "@/components/Home1/AchievementsSection";
+ 
 // import Instagram from '@/components/Home6/Instagram'
 import Brand from "@/components/Home1/Brand";
 import Footer from "@/components/Footer/Footer";
 import Link from "next/link";
-import Banner2 from "@/components/Home1/Banner2";
-
+ 
 const AboutUs = () => {
   return (
     <>
@@ -98,20 +98,19 @@ const AboutUs = () => {
           </div>
         </div>
       </div>
-      <Banner2 />
-
+      <div className=" achivment pt-10">
+      <AchievementsSection />
+      </div>
+ 
       <History />
       {/* <FreeShipping /> */}
       <Newsletter props="bg-green  mt-10" />
       <div className="benefit">
         <Benefit props=" md:pt-20" />
       </div>
-      {/* <Instagram /> */}
-      <div className="brand py-5">
-      <Brand />
-      </div>
-      
-      <Footer />
+       <div className="brand py-5">
+       </div>
+       <Footer />
     </>
   );
 };

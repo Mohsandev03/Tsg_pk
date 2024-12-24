@@ -165,26 +165,8 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                             Our Production Process
                           </Link>
                         </li>
-                        <li>
-                          <Link
-                            href="/pages/our-quality-inspection-protocol"
-                            className={`link text-secondary duration-300 ${
-                              pathname === "/pages/our-quality-inspection-protocol" ? "active" : ""
-                            }`}
-                          >
-                            Our Quality Inspection Protocol
-                          </Link>
-                        </li>
-                        <li>
-                          <Link
-                            href="/pages/fabric-tech"
-                            className={`link text-secondary duration-300 ${
-                              pathname === "/pages/fabric-tech" ? "active" : ""
-                            }`}
-                          >
-                            Fabric Tech
-                          </Link>
-                        </li>
+                     
+                       
                         <li>
                           <Link
                             href="/pages/contact"

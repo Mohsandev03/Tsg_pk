@@ -19,14 +19,28 @@
 height: 306px;
 
 }
+.benefit.py-10 {
+    background: #eee;
+}
 
 .w-1\/2.py-2.mb-6.secnd-img {
     padding-left: 10px;
 }
-
+.wow.linesAnimIn{
+    padding: 0px 40px;
+}
 
 .thumb-2.mb-6 img.w-full.duration-500{
 height: 512px;
+}
+
+.call-action-4-image-1.mb-4 {
+height:650px;
+margin-top: -40px;
+}
+.call-action-4-image-2 {
+    margin-top: 70px;
+    margin-left: -100px;
 }
  
 .w-1\/2.py-2.mb-6.first-img {
@@ -36,7 +50,9 @@ height: 512px;
     background: white;
 }
 
-
+.bg-black\/90.px-4.text-white {
+    padding: 100px 70px;
+}
 
 
 @media only screen and (max-width: 768px)  {
