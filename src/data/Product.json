@@ -2,7 +2,7 @@
   {
     "id": "1",
     "category": "fashion",
-    "type": "Caps",
+    "type": "Boxing",
     "name": "mesh shirt",
     "gender": "women",
     "new": true,
@@ -24,25 +24,25 @@
       {
         "color": "red",
         "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "colorImage": "/images/product/color/55-02.jpg",
+        "image": "/images/product/55-02.jpg"
       },
       {
-        "color": "yellow",
+        "color": "white",
         "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "colorImage": "/images/product/color/57-13.jpg",
+        "image": "/images/product/57-13.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/55-02.jpg",
+      "/images/product/57-13.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/55-03.jpg",
+      "/images/product/55-05.jpg",
+      "/images/product/55-03.jpg",
+      "/images/product/55-01.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -56,7 +56,7 @@
   {
     "id": "2",
     "category": "fashion",
-    "type": "Bags",
+    "type": "Boxing",
     "name": "Raglan Sleeve Active",
     "gender": "women",
     "new": true,
@@ -80,25 +80,25 @@
       {
         "color": "white",
         "colorCode": "#F6EFDD",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "colorImage": "/images/product/color/56-10.jpg",
+        "image": "/images/product/56-10.jpg"
       },
       {
         "color": "purple",
         "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "colorImage": "/images/product/color/56-10.jpg",
+        "image": "/images/product/56-10.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/56-10.jpg",
+      "/images/product/56-10.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/56-10.jpg",
+      "/images/product/56-10.jpg",
+      "/images/product/56-10.jpg",
+      "/images/product/56-10.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -175,7 +175,7 @@
     "id": "4",
     "category": "fashion",
     "type": "Active",
-    "name": "Kimono sleeve Caps",
+    "name": "Kimono sleeve Boxing",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -398,7 +398,7 @@
     "id": "8",
     "category": "fashion",
     "type": "sets",
-    "name": "Kimono sleeve Caps",
+    "name": "Kimono sleeve Boxing",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -629,7 +629,7 @@
     "id": "12",
     "category": "fashion",
     "type": "sets",
-    "name": "Kimono sleeve Caps",
+    "name": "Kimono sleeve Boxing",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -812,7 +812,7 @@
   {
     "id": "15",
     "category": "fashion",
-    "type": "Caps",
+    "type": "Boxing",
     "name": "Off-the-Shoulder Blouse",
     "gender": "women",
     "new": false,
@@ -870,8 +870,8 @@
   {
     "id": "16",
     "category": "fashion",
-    "type": "Caps",
-    "name": "Kimono sleeve Caps",
+    "type": "Boxing",
+    "name": "Kimono sleeve Boxing",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -1236,8 +1236,8 @@
   {
     "id": "20",
     "category": "fashion",
-    "type": "Caps",
-    "name": "Kimono sleeve Caps",
+    "type": "Boxing",
+    "name": "Kimono sleeve Boxing",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -1656,7 +1656,7 @@
     "id": "28",
     "category": "fashion",
     "type": "underwear",
-    "name": "Kimono sleeve Caps",
+    "name": "Kimono sleeve Boxing",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -1899,7 +1899,7 @@
     "id": "32",
     "category": "fashion",
     "type": "swimwear",
-    "name": "Kimono sleeve Caps",
+    "name": "Kimono sleeve Boxing",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -2922,7 +2922,7 @@
     "id": "50",
     "category": "fashion",
     "type": "Biker",
-    "name": "Biker Caps Treatment",
+    "name": "Biker Boxing Treatment",
     "gender": "women",
     "new": true,
     "sale": false,

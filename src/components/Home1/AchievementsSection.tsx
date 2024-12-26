@@ -1,3 +1,6 @@
+
+"use client";
+
 import { Parallax } from "react-parallax";
 import Link from "next/link";
 
