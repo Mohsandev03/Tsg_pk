@@ -120,24 +120,8 @@ const Footer = () => {
                                         className='w-9'
                                     />
                                 </div>
-                                <div className="payment-img">
-                                    <Image
-                                        src={'/images/payment/Frame-3.png'}
-                                        width={500}
-                                        height={500}
-                                        alt={'payment'}
-                                        className='w-9'
-                                    />
-                                </div>
-                                <div className="payment-img">
-                                    <Image
-                                        src={'/images/payment/Frame-4.png'}
-                                        width={500}
-                                        height={500}
-                                        alt={'payment'}
-                                        className='w-9'
-                                    />
-                                </div>
+                                 
+                                 
                                 <div className="payment-img">
                                     <Image
                                         src={'/images/payment/Frame-5.png'}

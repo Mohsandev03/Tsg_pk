@@ -1,6 +1,6 @@
 'use client'
 
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import Link from 'next/link'
 import * as Icon from "@phosphor-icons/react/dist/ssr";
 import { ProductType } from '@/type/ProductType'
@@ -223,7 +223,7 @@ const ShopBreadCrumb1: React.FC<Props> = ({ data, productPerPage, dataType, gend
                                 </div>
                             </div>
                             <div className="list-tab flex flex-wrap items-center justify-center gap-y-5 gap-8 lg:mt-[70px] mt-12 overflow-hidden">
-                                {['Boxing', 'dress', 'top', 'swimwear', 'shirt'].map((item, index) => (
+                                {['Boxing', 'Champion-Belts', 'Chest-Guard', 'Hand-Wraps', 'Groin-Guard', 'Head-Guard', 'Jiu-Jitsu', 'Karate-shoes','Punching-Bags','Punching Paddle','Taekwondo '].map((item, index) => (
                                     <div
                                         key={index}
                                         className={`tab-item text-button-uppercase cursor-pointer has-line-before line-2px ${dataType === item ? 'active' : ''}`}
@@ -245,7 +245,7 @@ const ShopBreadCrumb1: React.FC<Props> = ({ data, productPerPage, dataType, gend
                             <div className="filter-type pb-8 border-b border-line">
                                 <div className="heading6">Products Type</div>
                                 <div className="list-type mt-4">
-                                    {['t-shirt', 'dress', 'top', 'swimwear', 'shirt', 'underwear', 'sets', 'accessories'].map((item, index) => (
+                                    {['Boxing', 'Champion-Belts', 'Chest-Guard', 'Hand-Wraps', 'Groin-Guard', 'Head-Guard', 'Jiu-Jitsu', 'Karate-shoes','Punching-Bags','Punching Paddle','Taekwondo '].map((item, index) => (
                                         <div
                                             key={index}
                                             className={`item flex items-center justify-between cursor-pointer ${dataType === item ? 'active' : ''}`}
@@ -306,7 +306,7 @@ const ShopBreadCrumb1: React.FC<Props> = ({ data, productPerPage, dataType, gend
                                     </div>
                                 </div>
                             </div>
-                            <div className="filter-color pb-8 border-b border-line mt-8">
+                            {/* <div className="filter-color pb-8 border-b border-line mt-8">
                                 <div className="heading6">colors</div>
                                 <div className="list-color flex items-center flex-wrap gap-3 gap-y-4 mt-4">
                                     <div
@@ -359,7 +359,7 @@ const ShopBreadCrumb1: React.FC<Props> = ({ data, productPerPage, dataType, gend
                                         <div className="caption1 capitalize">white</div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
                             <div className="filter-brand mt-8">
                                 <div className="heading6">Brands</div>
                                 <div className="list-brand mt-4">

@@ -19,7 +19,7 @@ const LookBook: React.FC<Props> = ({ data, start, limit }) => {
 
   return (
     <>
-      <div className= "lookbook-block cos1 bg-surface  py-10 md:mt-20 ">
+      <div className= "lookbook-block cos1 bg-surface  py-10  ">
         <div className="about  py-10">
           <div className="about-us-block">
             <div className="container">
