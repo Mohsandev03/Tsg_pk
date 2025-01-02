@@ -1,12 +1,9 @@
 "use client";
 
 import React, { useState, useEffect } from "react";
-import Image from "next/image";
 import Link from "next/link";
 import * as Icon from "@phosphor-icons/react/dist/ssr";
 import { usePathname } from "next/navigation";
-import Product from "@/components/Product/Product";
-import productData from "@/data/Product.json";
 import useLoginPopup from "@/store/useLoginPopup";
 import useMenuMobile from "@/store/useMenuMobile";
 import { useModalCartContext } from "@/context/ModalCartContext";
@@ -100,7 +97,6 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                     >
                       Home
                     </Link>
-                   
                   </li>
                   <li className="h-full">
                     <Link
@@ -109,7 +105,297 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                     >
                       Categories
                     </Link>
-                     
+                    <div className="mega-menu absolute top-[74px] left-0 bg-white w-screen">
+                      <div className="container">
+                        <div className="flex justify-between py-8">
+                          <div className="nav-link w-full grid grid-cols-6 gap-y-1">
+                            <div className="nav-item">
+                              <div className="text-button-uppercase pb-2">
+                                {" "}
+                                <ul>
+                                  <li>
+                                    <a
+                                      className="drop-li"
+                                      href="  /categories/active-wear"
+                                    >
+                                      Active Wear
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                              <ul>
+                                <li>
+                                  <div
+                                    onClick={() => handleTypeClick("outerwear")}
+                                    className={`link text-secondary duration-300 cursor-pointer`}
+                                  >
+                                    Outerwear | Coats
+                                  </div>
+                                </li>
+
+                                <li>
+                                  <div
+                                    onClick={() => handleGenderClick("men")}
+                                    className={`link text-secondary duration-300 cursor-pointer view-all-btn`}
+                                  >
+                                    View All
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+                            <div className="nav-item">
+                              <div className="text-button-uppercase pb-2">
+                                {" "}
+                                <ul>
+                                  <li>
+                                    <a
+                                      className="drop-li"
+                                      href="  /categories/hunting-gear"
+                                    >
+                                      {" "}
+                                      Hunting Gear
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+
+                              <ul>
+                                <li>
+                                  <div
+                                    onClick={() => handleTypeClick("top")}
+                                    className={`link text-secondary duration-300 cursor-pointer`}
+                                  >
+                                    Top | Overshirts
+                                  </div>
+                                </li>
+
+                                <li>
+                                  <div
+                                    onClick={() =>
+                                      handleCategoryClick("fashion")
+                                    }
+                                    className={`link text-secondary duration-300 view-all-btn`}
+                                  >
+                                    View All
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+                            <div className="nav-item">
+                              <div className="text-button-uppercase pb-2">
+                                {" "}
+                                <ul>
+                                  <li>
+                                    <a
+                                      className="drop-li"
+                                      href="  /categories/leather-jackets"
+                                    >
+                                      {" "}
+                                      Leather Jackets
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+
+                              <ul>
+                                <li>
+                                  <div
+                                    onClick={() => handleTypeClick("eye")}
+                                    className={`link text-secondary duration-300 cursor-pointer`}
+                                  >
+                                    Eyes Makeup
+                                  </div>
+                                </li>
+
+                                <li>
+                                  <div
+                                    onClick={() =>
+                                      handleCategoryClick("cosmetic")
+                                    }
+                                    className={`link text-secondary duration-300 view-all-btn`}
+                                  >
+                                    View All
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+                            <div className="nav-item">
+                              <div className="text-button-uppercase pb-2">
+                                {" "}
+                                <ul>
+                                  <li>
+                                    <a
+                                      className="drop-li"
+                                      href="  /categories/sports-bags"
+                                    >
+                                      Sports Bags
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                              <ul>
+                                <li>
+                                  <div
+                                    onClick={() => handleTypeClick("mats")}
+                                    className={`link text-secondary duration-300 cursor-pointer`}
+                                  >
+                                    Yoga Equipment
+                                  </div>
+                                </li>
+                                <li>
+                                  <div
+                                    onClick={() => handleCategoryClick("yoga")}
+                                    className={`link text-secondary duration-300 view-all-btn`}
+                                  >
+                                    View All
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+                            <div className="nav-item">
+                              <div className="text-button-uppercase pb-2">
+                                {" "}
+                                <ul>
+                                  <li>
+                                    <a
+                                      className="drop-li"
+                                      href="  /categories/sports-bike-gear"
+                                    >
+                                      Bike Gear
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+
+                              <ul>
+                                <li>
+                                  <div
+                                    onClick={() => handleTypeClick("dress")}
+                                    className={`link text-secondary duration-300 cursor-pointer`}
+                                  >
+                                    Dresses | Jumpsuits
+                                  </div>
+                                </li>
+
+                                <li>
+                                  <div
+                                    onClick={() => handleGenderClick("women")}
+                                    className={`link text-secondary duration-300 view-all-btn`}
+                                  >
+                                    View All
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+                            <div className="nav-item">
+                              <div className="text-button-uppercase pb-2">
+                                <ul>
+                                  <li>
+                                    <a
+                                      className="drop-li"
+                                      href="  /categories/sports-cap"
+                                    >
+                                      Sports Cap
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                              <ul>
+                                <li>
+                                  <div
+                                    onClick={() => handleTypeClick("clothing")}
+                                    className={`link text-secondary duration-300 cursor-pointer`}
+                                  >
+                                    Newborn Clothing
+                                  </div>
+                                </li>
+                                <li>
+                                  <div
+                                    onClick={() =>
+                                      handleCategoryClick("toys-kid")
+                                    }
+                                    className={`link text-secondary duration-300 view-all-btn`}
+                                  >
+                                    View All
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+                            <div className="nav-item">
+                              <div className="text-button-uppercase pb-2">
+                                <ul>
+                                  <li>
+                                    <a
+                                      className="drop-li"
+                                      href="  /categories/sports-gloves"
+                                    >
+                                      Sports Gloves
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+
+                              <ul>
+                                <li>
+                                  <div
+                                    onClick={() => handleTypeClick("lighting")}
+                                    className={`link text-secondary duration-300 cursor-pointer`}
+                                  >
+                                    Lighting | Bed Room
+                                  </div>
+                                </li>
+                                <li>
+                                  <div
+                                    onClick={() =>
+                                      handleCategoryClick("furniture")
+                                    }
+                                    className={`link text-secondary duration-300 view-all-btn`}
+                                  >
+                                    View All
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+
+                            <div className="nav-item">
+                              <div className="text-button-uppercase pb-2">
+                                <ul>
+                                  <li>
+                                    <a
+                                      className="drop-li"
+                                      href="  /categories/sports-wear"
+                                    >
+                                      Sports Wear
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                              <div className="text-button-uppercase pb-2"></div>
+                              <ul>
+                                <li>
+                                  <div
+                                    onClick={() => handleTypeClick("lighting")}
+                                    className={`link text-secondary duration-300 cursor-pointer`}
+                                  >
+                                    Lighting | Bed Room
+                                  </div>
+                                </li>
+                                <li>
+                                  <div
+                                    onClick={() =>
+                                      handleCategoryClick("furniture")
+                                    }
+                                    className={`link text-secondary duration-300 view-all-btn`}
+                                  >
+                                    View All
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </li>
                   <li className="h-full">
                     <Link
@@ -120,9 +406,8 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                     >
                       Shop
                     </Link>
-                   
                   </li>
-               
+
                   <li className="h-full relative">
                     <Link
                       href="/blog/default"
@@ -132,7 +417,6 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                     >
                       Blog
                     </Link>
-                     
                   </li>
                   <li className="h-full relative">
                     <Link
@@ -159,14 +443,15 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                           <Link
                             href="/pages/our-production-process"
                             className={`link text-secondary duration-300 ${
-                              pathname === "/pages/our-production-process" ? "active" : ""
+                              pathname === "/pages/our-production-process"
+                                ? "active"
+                                : ""
                             }`}
                           >
                             Our Production Process
                           </Link>
                         </li>
-                     
-                       
+
                         <li>
                           <Link
                             href="/pages/contact"
@@ -177,28 +462,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                             Contact Us
                           </Link>
                         </li>
-                        {/* <li>
-                          <Link
-                            href="/pages/store-list"
-                            className={`link text-secondary duration-300 ${
-                              pathname === "/pages/store-list" ? "active" : ""
-                            }`}
-                          >
-                            Store List
-                          </Link>
-                        </li> */}
-                        {/* <li>
-                          <Link
-                            href="/pages/page-not-found"
-                            className={`link text-secondary duration-300 ${
-                              pathname === "/pages/page-not-found"
-                                ? "active"
-                                : ""
-                            }`}
-                          >
-                            404
-                          </Link>
-                        </li> */}
+
                         <li>
                           <Link
                             href="/pages/faqs"
@@ -209,7 +473,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                             FAQs
                           </Link>
                         </li>
-                     
+
                         <li>
                           <Link
                             href="/pages/customer-feedbacks"
@@ -238,7 +502,6 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                 <div className="line absolute bg-line w-px h-6 -right-6"></div>
               </div>
               <div className="list-action flex items-center gap-4">
-                 
                 <div
                   className="max-md:hidden wishlist-icon flex items-center cursor-pointer"
                   onClick={openModalWishlist}
@@ -304,7 +567,6 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                         <Icon.CaretRight size={20} />
                       </span>
                     </a>
-                   
                   </li>
                   <li
                     className={`${openSubNavMobile === 2 ? "open" : ""}`}
@@ -319,7 +581,6 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                         <Icon.CaretRight size={20} />
                       </span>
                     </a>
-                 
                   </li>
                   <li
                     className={`${openSubNavMobile === 3 ? "open" : ""}`}
@@ -334,9 +595,8 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                         <Icon.CaretRight size={20} />
                       </span>
                     </a>
-                       
                   </li>
-                 
+
                   <li
                     className={`${openSubNavMobile === 5 ? "open" : ""}`}
                     onClick={() => handleOpenSubNavMobile(5)}
@@ -350,9 +610,6 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                         <Icon.CaretRight size={20} />
                       </span>
                     </a>
- 
-                    
-                     
                   </li>
                   <li
                     className={`${openSubNavMobile === 6 ? "open" : ""}`}
@@ -367,7 +624,6 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                         <Icon.CaretRight size={20} />
                       </span>
                     </a>
-                     
                   </li>
                 </ul>
               </div>

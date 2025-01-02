@@ -27,7 +27,7 @@ const CombinedComponent: React.FC<Props> = ({ data }) => {
         <div className="heading3 text-center pb-10">Explore our Categories</div>
 
         {/* Tabs for switching between categories and products */}
-        <div className="menu-tab-container mt-4 p-2 bg-surface rounded-3xl overflow-x-auto w-full max-w-[780px] mx-auto">
+        <div className="menu-tab-container mt-4   bg-surface rounded-3xl overflow-x-auto w-full max-w-[780px] mx-auto">
           <div className="menu-tab flex gap-2 justify-start flex-nowrap py-2">
             {[
               "Sports Wear",

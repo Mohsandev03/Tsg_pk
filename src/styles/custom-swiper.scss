@@ -19,6 +19,42 @@
 height: 306px;
 
 }
+.menu-tab .tab-item{
+    border-radius: 0px !important;
+}
+.collection-item .collection-name {
+     position: relative !important; 
+    left: 35% !important; 
+    transform: translate(-50%); 
+    bottom: 0% !important;
+    font-size: 19px;
+}
+.collection-name:hover {
+    background: none !important; /* Removes hover background */
+    color: inherit; /* Keeps the original text color */
+    transition: none; /* Optional: Removes hover transition */
+  }
+//   .collection-block.style-six .swiper {
+//     padding-bottom: 20px !important;
+// }
+.heading4.text-white.men-fashion {
+    text-align: left !important;
+    position: absolute;
+    bottom: 40px;
+    left: 20px;
+}
+
+.collection-name.heading5.sm\:bottom-8.bottom-4.lg\:w-\[200px\].md\:w-\[160px\].w-\[100px\].py-1\.5.duration-500{    color: black;
+    padding-top: 20px;
+}
+  .collection-name {
+    color: black; /* Default text color */
+  }
+  
+  .collection-name:hover {
+    text-decoration: underline; /* Adds underline on hover */
+  }
+  
 .benefit.py-10 {
     background: #eee;
 }
@@ -37,7 +73,13 @@ h1.heading3.pb-10 {
 }
 
 .thumb-2.mb-6 img.w-full.duration-500{
-height: 512px;
+height: auto;
+}
+.menu-tab-container.mt-4.bg-surface.rounded-3xl.overflow-x-auto.w-full.max-w-\[780px\].mx-auto {
+    text-align: center;
+    justify-content: center;
+    display: flex
+;
 }
 
 .call-action-4-image-1.mb-4 {

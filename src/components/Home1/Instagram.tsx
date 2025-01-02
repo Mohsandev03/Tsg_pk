@@ -45,9 +45,9 @@ const Instagram = () => {
                             }}
                         >
                             <SwiperSlide>
-                                <Link href={'https://www.instagram.com/'} target='_blank' className="item relative block rounded-[32px] overflow-hidden">
+                                <Link href={'https://www.instagram.com/'} target='_blank' className="item relative block   overflow-hidden">
                                     <Image
-                                        src={'/images/instagram/instBiker.png'}
+                                        src={'/images/instagram/1.png'}
                                         width={300}
                                         height={300}
                                         alt='1'
@@ -59,9 +59,9 @@ const Instagram = () => {
                                 </Link>
                             </SwiperSlide>
                             <SwiperSlide>
-                                <Link href={'https://www.instagram.com/'} target='_blank' className="item relative block rounded-[32px] overflow-hidden">
+                                <Link href={'https://www.instagram.com/'} target='_blank' className="item relative block   overflow-hidden">
                                     <Image
-                                        src={'/images/instagram/instBiker.png'}
+                                        src={'/images/instagram/2.png'}
                                         width={300}
                                         height={300}
                                         alt='1'
@@ -73,9 +73,9 @@ const Instagram = () => {
                                 </Link>
                             </SwiperSlide>
                             <SwiperSlide>
-                                <Link href={'https://www.instagram.com/'} target='_blank' className="item relative block rounded-[32px] overflow-hidden">
+                                <Link href={'https://www.instagram.com/'} target='_blank' className="item relative block   overflow-hidden">
                                     <Image
-                                        src={'/images/instagram/instBiker.png'}
+                                        src={'/images/instagram/3.png'}
                                         width={300}
                                         height={300}
                                         alt='1'
@@ -87,9 +87,9 @@ const Instagram = () => {
                                 </Link>
                             </SwiperSlide>
                             <SwiperSlide>
-                                <Link href={'https://www.instagram.com/'} target='_blank' className="item relative block rounded-[32px] overflow-hidden">
+                                <Link href={'https://www.instagram.com/'} target='_blank' className="item relative block   overflow-hidden">
                                     <Image
-                                        src={'/images/instagram/instBiker.png'}
+                                        src={'/images/instagram/6.png'}
                                         width={300}
                                         height={300}
                                         alt='1'
@@ -101,9 +101,9 @@ const Instagram = () => {
                                 </Link>
                             </SwiperSlide>
                             <SwiperSlide>
-                                <Link href={'https://www.instagram.com/'} target='_blank' className="item relative block rounded-[32px] overflow-hidden">
+                                <Link href={'https://www.instagram.com/'} target='_blank' className="item relative block   overflow-hidden">
                                     <Image
-                                        src={'/images/instagram/instBiker.png'}
+                                        src={'/images/instagram/5.png'}
                                         width={300}
                                         height={300}
                                         alt='1'
