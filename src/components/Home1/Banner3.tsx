@@ -7,7 +7,7 @@ import React from "react";
 const Banner = () => {
   return (
     <div className="container mx-auto px-4 md:px-8">
-      <div className="banner-block style-one grid sm:grid-cols-4 gap-0 pb-10">
+      <div className="banner-block style-one grid sm:grid-cols-3 gap-8 pb-10">
         <Link
           href={"/shop/breadcrumb-img"}
           className="banner-item relative block overflow-hidden duration-500"
@@ -77,7 +77,7 @@ const Banner = () => {
             </div>
           </div>
         </Link>
-        <Link
+        {/* <Link
           href={"/shop/breadcrumb-img"}
           className="banner-item relative block overflow-hidden duration-500"
         >
@@ -99,7 +99,7 @@ const Banner = () => {
               Shop Now
             </div>
           </div>
-        </Link>
+        </Link> */}
       </div>
     </div>
   );

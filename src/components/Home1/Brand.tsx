@@ -35,7 +35,7 @@ const Brand = () => {
                                     spaceBetween: 16,
                                 },
                                 1200: {
-                                    slidesPerView: 6,
+                                    slidesPerView: 5,
                                     spaceBetween: 16,
                                 },
                             }}
@@ -43,7 +43,7 @@ const Brand = () => {
                             <SwiperSlide>
                                 <div className="brand-item relative flex items-center justify-center h-[36px]">
                                     <Image
-                                        src={'/images/brand/brand.jpg'}
+                                        src={'/images/brand/gs-icon-text.svg'}
                                         width={300}
                                         height={300}
                                         alt='1'
@@ -54,7 +54,7 @@ const Brand = () => {
                             <SwiperSlide>
                                 <div className="brand-item relative flex items-center justify-center h-[36px]">
                                     <Image
-                                        src={'/images/brand/brand.jpg'}
+                                        src={'/images/brand/Logo_FreePeople.svg'}
                                         width={300}
                                         height={300}
                                         alt='1'
@@ -65,7 +65,7 @@ const Brand = () => {
                             <SwiperSlide>
                                 <div className="brand-item relative flex items-center justify-center h-[36px]">
                                     <Image
-                                        src={'/images/brand/brand.jpg'}
+                                        src={'/images/brand/download.svg'}
                                         width={300}
                                         height={300}
                                         alt='1'
@@ -76,7 +76,7 @@ const Brand = () => {
                             <SwiperSlide>
                                 <div className="brand-item relative flex items-center justify-center h-[36px]">
                                     <Image
-                                        src={'/images/brand/brand.jpg'}
+                                        src={'/images/brand/new-next-black-logo.svg'}
                                         width={300}
                                         height={300}
                                         alt='1'
@@ -87,7 +87,7 @@ const Brand = () => {
                             <SwiperSlide>
                                 <div className="brand-item relative flex items-center justify-center h-[36px]">
                                     <Image
-                                        src={'/images/brand/brand.jpg'}
+                                        src={'/images/brand/logo.svg'}
                                         width={300}
                                         height={300}
                                         alt='1'
@@ -95,17 +95,7 @@ const Brand = () => {
                                     />
                                 </div>
                             </SwiperSlide>
-                            <SwiperSlide>
-                                <div className="brand-item relative flex items-center justify-center h-[36px]">
-                                    <Image
-                                        src={'/images/brand/brand.jpg'}
-                                        width={300}
-                                        height={300}
-                                        alt='1'
-                                        className='h-full w-auto duration-500 relative object-cover'
-                                    />
-                                </div>
-                            </SwiperSlide>
+                             
                         </Swiper>
                     </div>
                 </div>
