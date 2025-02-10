@@ -19,6 +19,7 @@ import LookBook from "@/components/Home1/LookBook";
 import SliderSix from "@/components/Slider/SliderSix";
 import Banner3 from "@/components/Home1/Banner3";
 import Banner4 from "@/components/Home1/banner4";
+import WhyChooseUs from "@/components/Home1/WhyChooseUs";
 
 // import ModalNewsletter from '@/components/Modal/ModalNewsletter'
 
@@ -49,7 +50,7 @@ export default function Home() {
         <Banner3 />
       </div>
       {/* <TabFeatures2 data={productData} start={0} limit={6} /> */}
-
+      <WhyChooseUs />
       <Testimonial data={testimonialData} limit={6} />
       <Benefit props="md:py-20 " />
       <Instagram />
