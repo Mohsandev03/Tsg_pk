@@ -87,7 +87,7 @@ const Testimonial: React.FC<Props> = ({ data = [], limit = 3 }) => {
         </div>
       </div>
       <div className="py-10">
-        <LookBook data={[]} start={0} limit={0} />
+        {/* <LookBook data={[]} start={0} limit={0} /> */}
       </div>
       <Newsletter props="bg-green   mb-10" />
       <Instagram />
