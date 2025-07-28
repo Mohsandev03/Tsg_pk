@@ -5,7 +5,7 @@ import MenuOne from "@/components/Header/Menu/MenuOne";
 import Breadcrumb from "@/components/Breadcrumb/Breadcrumb";
 import Footer from "@/components/Footer/Footer";
 // import Collection from "@/components/Home1/Collectionreview";
-import LookBook from "@/components/Home1/LookBook";
+// import LookBook from "@/components/Home1/LookBook";
 // import Quote from "@/components/Home1/Quote";
 import TestimonialItem from "@/components/Testimonial/TestimonialItem";
 
