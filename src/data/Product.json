@@ -1,9 +1,9 @@
 [
   {
     "id": "1",
-    "category": "fashion",
-    "type": "Boxing",
-    "name": "mesh shirt",
+    "category": "Boxing",
+    "type": "BoxingPad",
+    "name": "BoxingPad1",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -41,12 +41,12 @@
     "images": [
       "/images/product/55-03.jpg",
       "/images/product/55-05.jpg",
-      "/images/product/55-03.jpg",
-      "/images/product/55-01.jpg"
+      "/images/product/57-14.jpg",
+      "/images/product/57-17.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "mesh-shirt"
+    "slug": "BoxingPad1"
   },
 
 
@@ -55,10 +55,10 @@
   
   {
     "id": "2",
-    "category": "fashion",
-    "type": "Casual",
-    "name": "Raglan Sleeve Causal",
-    "gender": "women",
+    "category": "Boxing",
+    "type": "BoxingPad",
+    "name": "BoxingPad2",
+    "gender": "men",
     "new": true,
     "sale": false,
     "rate": 5,
@@ -82,27 +82,22 @@
         "colorCode": "#F6EFDD",
         "colorImage": "/images/product/color/56-10.jpg",
         "image": "/images/product/56-10.jpg"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/56-10.jpg",
-        "image": "/images/product/56-10.jpg"
       }
+    
     ],
     "thumbImage": [
-      "/images/product/56-10.jpg",
+      "/images/product/56-07.jpg",
       "/images/product/56-10.jpg"
     ],
     "images": [
-      "/images/product/56-10.jpg",
-      "/images/product/56-10.jpg",
-      "/images/product/56-10.jpg",
+      "/images/product/56-07.jpg",
+      "/images/product/56-08.jpg",
+      "/images/product/56-09.jpg",
       "/images/product/56-10.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "shirt"
+    "slug": "BoxingPad2"
   },
 
 
@@ -121,10 +116,10 @@
 
   {
     "id": "3",
-    "category": "fashion",
-    "type": "Boxing",
-    "name": "Off-the-Shoulder Blouse",
-    "gender": "women",
+    "category": "Boxing",
+    "type": "BoxingPad",
+    "name": "BoxingPad3",
+    "gender": "men",
     "new": false,
     "sale": true,
     "rate": 4,
@@ -141,42 +136,31 @@
       {
         "color": "pink",
         "colorCode": "#F4407D",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/57-13.jpg"
-      },
-      {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/57-13.jpg"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
+        "colorImage": "/images/product/color/57-13.jpg",
         "image": "/images/product/57-13.jpg"
       }
+      
     ],
     "thumbImage": [
       "/images/product/57-13.jpg",
-      "/images/product/57-13.jpg"
+      "/images/product/57-14.jpg"
     ],
     "images": [
       "/images/product/57-13.jpg",
-      "/images/product/57-13.jpg",
-      "/images/product/57-13.jpg",
-      "/images/product/57-13.jpg"
+      "/images/product/57-14.jpg",
+      "/images/product/57-15.jpg",
+      "/images/product/57-16.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "blouse"
+    "slug": "BoxingPad3"
   },
   {
     "id": "4",
-    "category": "fashion",
-    "type": "Boxing",
-    "name": "Kimono sleeve Boxing",
-    "gender": "women",
+    "category": "Boxing",
+    "type": "BoxingPad",
+    "name": "BoxingPad4",
+    "gender": "men,women",
     "new": false,
     "sale": true,
     "rate": 5,
@@ -193,44 +177,32 @@
     ],
     "variation": [
       {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/57-14.jpg"
-      },
-      {
-        "color": "white",
-        "colorCode": "#F6EFDD",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/57-14.jpg"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/57-14.jpg"
+        "color": "blue",
+        "colorCode": "blue",
+        "colorImage": "/images/product/BoxingFocusingPads/58-22.jpg",
+        "image": "/images/product/BoxingFocusingPads/58-22.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/57-14.jpg",
-      "/images/product/57-14.jpg"
+      "/images/product/58-22.jpg",
+      "/images/product/58-23.jpg"
     ],
     "images": [
-      "/images/product/57-14.jpg",
-      "/images/product/57-14.jpg",
-      "/images/product/57-14.jpg",
-      "/images/product/57-14.jpg"
+      "/images/product/58-22.jpg",
+      "/images/product/58-23.jpg",
+      "/images/product/58-24.jpg",
+      "/images/product/58-25.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "kimono"
+    "slug": "BoxingPad4"
   },
   {
     "id": "5",
-    "category": "fashion",
-    "type": "Boxing",
-    "name": "mesh shirt",
-    "gender": "women",
+    "category": "Boxing",
+    "type": "BoxingPad",
+    "name": "BoxingPad5",
+    "gender": "women,men",
     "new": true,
     "sale": false,
     "rate": 4,
@@ -250,41 +222,31 @@
       {
         "color": "black",
         "colorCode": "#1F1F1F",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/59-29.jpg"
-      },
-      {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/59-29.jpg"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
+        "colorImage": "/images/product/59-29.jpg",
         "image": "/images/product/59-29.jpg"
       }
-    ],
+      ],
     "thumbImage": [
-      "/images/product/59-29.jpg",
+      "/images/product/59-28.jpg",
       "/images/product/59-29.jpg"
     ],
     "images": [
-      "/images/product/59-29.jpg",
-      "/images/product/59-29.jpg",
-      "/images/product/59-29.jpg"
+      "/images/product/59-30.jpg",
+      "/images/product/59-31.jpg",
+      "/images/product/59-32.jpg",
+      "/images/product/59-33.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "mesh-shirt"
-  },
+    "slug": "BoxingPad5"
+ },
+
   {
     "id": "6",
-    "category": "fashion",
-    "type": "sets",
-    "name": "Raglan Sleeve Causal",
-    "gender": "women",
+    "category": "Boxing",
+    "type": "BoxingUniform",
+    "name": "BoxingUniform1",
+    "gender": "women,men",
     "new": true,
     "sale": false,
     "rate": 5,
@@ -304,44 +266,38 @@
     ],
     "variation": [
       {
-        "color": "green",
-        "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "black",
+        "colorCode": "#000",
+        "colorImage": "/images/product/BoxingUniform/79-30.jpg",
+        "image": "/images/product/BoxingUniform/79-30.jpg"
       },
       {
         "color": "red",
         "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "colorImage": "/images/product/BoxingUniform/80-37.jpg",
+        "image": "/images/product/BoxingUniform/80-39.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/BoxingUniform/79-34.jpg",
+      "/images/product/BoxingUniform/80-40.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/BoxingUniform/79-32.jpg",
+      "/images/product/BoxingUniform/79-33.jpg",
+      "/images/product/BoxingUniform/80-38.jpg",
+      "/images/product/BoxingUniform/80-39.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "shirt"
+    "slug": "Boxinguniform1"
   },
   {
     "id": "7",
-    "category": "fashion",
-    "type": "shirt",
-    "name": "Off-the-Shoulder Blouse",
-    "gender": "women",
+    "category": "Boxing",
+    "type": "BoxingUniform",
+    "name": "BoxingUniform2",
+    "gender": "men",
     "new": false,
     "sale": true,
     "rate": 4,
@@ -356,49 +312,45 @@
     ],
     "variation": [
       {
-        "color": "green",
-        "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "blue",
+        "colorCode": "#0000ff",
+        "colorImage": "/images/product/BoxingUniform/81-43.jpg",
+        "image": "/images/product/BoxingUniform/81-43.jpg"
       },
       {
         "color": "red",
         "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "colorImage": "/images/product/BoxingUniform/81-42.jpg",
+        "image": "/images/product/BoxingUniform/81-42.jpg"
       },
+     
       {
-        "color": "white",
-        "colorCode": "#F6EFDD",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "black",
+        "colorCode": "#000",
+        "colorImage": "/images/product/BoxingUniform/81-44.jpg",
+        "image": "/images/product/BoxingUniform/81-44.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/BoxingUniform/81-42.jpg",
+      "/images/product/BoxingUniform/81-43.jpg",
+      "/images/product/BoxingUniform/81-44.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/BoxingUniform/81-45.jpg",
+      "/images/product/BoxingUniform/81-46-47.jpg",
+      "/images/product/BoxingUniform/81-44.jpg",
+      "/images/product/BoxingUniform/81-47.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "blouse"
+    "slug": "Boxinguniform2"
   },
   {
     "id": "8",
-    "category": "fashion",
-    "type": "sets",
-    "name": "Kimono sleeve Boxing",
+    "category": "Boxing",
+    "type": "BoxingUniform",
+    "name": "BoxingUniform3",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -419,47 +371,48 @@
       {
         "color": "green",
         "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "colorImage": "/images/product/BoxingUniform/82-48.jpg",
+        "image": "/images/product/BoxingUniform/82-48.jpg"
       },
       {
         "color": "red",
         "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "colorImage": "/images/product/BoxingUniform/82-49.jpg",
+        "image": "/images/product/BoxingUniform/82-49.jpg"
       },
       {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "blue1",
+        "colorCode": "#0000ff",
+        "colorImage": "/images/product/BoxingUniform/82-50.jpg",
+        "image": "/images/product/BoxingUniform/82-50.jpg"
       },
       {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "blue2",
+        "colorCode": "#0000ff",
+        "colorImage": "/images/product/BoxingUniform/82-51.jpg",
+        "image": "/images/product/BoxingUniform/82-52.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/BoxingUniform/82-48.jpg",
+      "/images/product/BoxingUniform/82-49.jpg",
+      "/images/product/BoxingUniform/82-50.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/BoxingUniform/82-48.jpg",
+      "/images/product/BoxingUniform/82-49.jpg",
+      "/images/product/BoxingUniform/82-50.jpg",
+      "/images/product/BoxingUniform/82-52.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "kimono"
+    "slug": "Boxinguniform3"
   },
   {
     "id": "9",
-    "category": "fashion",
-    "type": "Formal",
-    "name": "mesh shirt",
+    "category": "Boxing",
+    "type": "BoxingUniform",
+    "name": "BoxingUniform4",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -478,43 +431,32 @@
     ],
     "variation": [
       {
-        "color": "green",
-        "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "white",
-        "colorCode": "#F6EFDD",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "blue",
+        "colorCode": "#0000ff",
+        "colorImage": "/images/product/BoxingUniform/83-54.jpg",
+        "image": "/images/product/BoxingUniform/83-54.jpg"
       }
+      
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/BoxingUniform/83-55.jpg",
+      "/images/product/BoxingUniform/83-56.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/BoxingUniform/83-54.jpg",
+      "/images/product/BoxingUniform/83-56.jpg",
+      "/images/product/BoxingUniform/83-57.jpg",
+      "/images/product/BoxingUniform/83-58-59.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "mesh-shirt"
+    "slug": "Boxinguniform4"
   },
   {
     "id": "10",
-    "category": "fashion",
-    "type": "Formal",
-    "name": "Raglan Sleeve Formal",
+    "category": "Boxing",
+    "type": "BoxingUniform",
+    "name": "BoxingUniform5",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -535,49 +477,38 @@
     ],
     "variation": [
       {
-        "color": "green",
-        "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "blue",
+        "colorCode": "#0000ff",
+        "colorImage": "/images/product/BoxingUniform/84-61.jpg",
+        "image": "/images/product/BoxingUniform/84-62.jpg"
       },
       {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "black",
+        "colorCode": "#000",
+        "colorImage": "/images/product/BoxingUniform/84-64-65.jpg",
+        "image": "/images/product/BoxingUniform/84-64-65.jpg"
       }
-    ],
+
+      ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/BoxingUniform/84-63.jpg",
+      "/images/product/BoxingUniform/84-64-65.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/BoxingUniform/84-61.jpg",
+      "/images/product/BoxingUniform/84-62.jpg",
+      "/images/product/BoxingUniform/84-64-65.jpg",
+      "/images/product/BoxingUniform/84-60.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "shirt"
+    "slug": "Boxinguniform5"
   },
   {
     "id": "11",
-    "category": "fashion",
-    "type": "Formal",
-    "name": "Off-the-Shoulder Blouse",
+    "category": "Boxing",
+    "type": "BoxingUniform",
+    "name": "BoxingUniform6",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -593,43 +524,31 @@
     ],
     "variation": [
       {
-        "color": "green",
-        "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "white",
-        "colorCode": "#F6EFDD",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "blue",
+        "colorCode": "#0000ff",
+        "colorImage": "/images/product/BoxingUniform/85-66.jpg",
+        "image": "/images/product/BoxingUniform/85-67.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/BoxingUniform/85-68.jpg",
+      "/images/product/BoxingUniform/85-66.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/BoxingUniform/85-66.jpg",
+      "/images/product/BoxingUniform/85-67.jpg",
+      "/images/product/BoxingUniform/85-70.jpg",
+      "/images/product/BoxingUniform/85-69.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "blouse"
+    "slug": "Boxinguniform6"
   },
   {
     "id": "12",
-    "category": "fashion",
-    "type": "sets",
-    "name": "Kimono sleeve Boxing",
+    "category": "Boxing",
+    "type": "BoxingUniform",
+    "name": "BoxingUniform7",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -648,50 +567,39 @@
     ],
     "variation": [
       {
-        "color": "green",
-        "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "blue",
+        "colorCode": "#0000ff",
+        "colorImage": "/images/product/BoxingUniform/86-72.jpg",
+        "image": "/images/product/BoxingUniform/86-74-75.jpg"
       },
       {
         "color": "red",
         "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "colorImage": "/images/product/BoxingUniform/86-74.jpg",
+        "image": "/images/product/BoxingUniform/86-74-75.jpg"
       }
+      
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/BoxingUniform/86-75.jpg",
+      "/images/product/BoxingUniform/86-76.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/BoxingUniform/86-72.jpg",
+      "/images/product/BoxingUniform/86-74.jpg",
+      "/images/product/BoxingUniform/86-75.jpg",
+      "/images/product/BoxingUniform/86-74-75.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "kimono"
+    "slug": "Boxinguniform7"
   },
   {
     "id": "13",
-    "category": "fashion",
-    "type": "Formal",
-    "name": "mesh shirt",
-    "gender": "women",
+    "category": "Caps",
+    "type": "caps",
+    "name": "caps1",
+    "gender": "women,men",
     "new": true,
     "sale": false,
     "rate": 4,
@@ -708,49 +616,38 @@
     ],
     "variation": [
       {
-        "color": "green",
-        "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "gray",
+        "colorCode": "#808080",
+        "colorImage": "/images/product/caps/98-48.jpg",
+        "image": "/images/product/caps/98-48.jpg"
       },
       {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "light brown",
+        "colorCode": "#C4A484",
+        "colorImage": "/images/product/caps/98-51.jpg",
+        "image": "/images/product/caps/98-52.jpg"
       }
+      
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/caps/98-48.jpg",
+      "/images/product/caps/98-51.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/caps/98-48.jpg",
+      "/images/product/caps/98-50.jpg",
+      "/images/product/caps/98-52.jpg",
+      "/images/product/caps/98-51.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "mesh-shirt"
+    "slug": "caps1"
   },
   {
     "id": "14",
-    "category": "fashion",
-    "type": "sets",
-    "name": "Raglan Sleeve Formal",
+    "category": "Caps",
+    "type": "caps",
+    "name": "caps2",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -771,49 +668,31 @@
     ],
     "variation": [
       {
-        "color": "green",
-        "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "black",
+        "colorCode": "#000",
+        "colorImage": "/images/product/caps/99-54.jpg",
+        "image": "/images/product/caps/99-55.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/caps/99-56.jpg",
+      "/images/product/caps/99-57.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/caps/99-54.jpg",
+      "/images/product/caps/99-56.jpg",
+      "/images/product/caps/99-57.jpg",
+      "/images/product/caps/99-58-59.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "shirt"
+    "slug": "caps2"
   },
   {
     "id": "15",
-    "category": "fashion",
-    "type": "Champion-Belts",
-    "name": "Off-the-Shoulder Blouse",
+    "category": "Caps",
+    "type": "caps",
+    "name": "caps3",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -829,49 +708,37 @@
     ],
     "variation": [
       {
-        "color": "green",
-        "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "light gray",
+        "colorCode": "#D3D3D3",
+        "colorImage": "/images/product/caps/100-60-61.jpg",
+        "image": "/images/product/caps/100-60-61.jpg"
       },
       {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "black",
+        "colorCode": "#000",
+        "colorImage": "/images/product/caps/100-62.jpg",
+        "image": "/images/product/caps/100-62.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/caps/100-61.jpg",
+      "/images/product/caps/100-62.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/caps/100-61.jpg",
+      "/images/product/caps/100-62.jpg",
+      "/images/product/caps/100-63.jpg",
+      "/images/product/caps/100-60-65.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "blouse"
+    "slug": "caps3"
   },
   {
     "id": "16",
-    "category": "fashion",
-    "type": "Champion-Belts",
-    "name": "Kimono sleeve Boxing",
+    "category": "Caps",
+    "type": "caps",
+    "name": "caps4",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -890,49 +757,38 @@
     ],
     "variation": [
       {
-        "color": "green",
-        "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "white",
+        "colorCode": "#fff",
+        "colorImage": "/images/product/caps/101-66.jpg",
+        "image": "/images/product/caps/101-66.jpg"
       },
       {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "black",
+        "colorCode": "#000",
+        "colorImage": "/images/product/caps/101-69.jpg",
+        "image": "/images/product/caps/101-69.jpg"
       }
+      
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/caps/101-66.jpg",
+      "/images/product/caps/101-69.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/caps/101-66.jpg",
+      "/images/product/caps/101-67.jpg",
+      "/images/product/caps/101-69.jpg",
+      "/images/product/caps/101-70.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "kimono"
+    "slug": "caps4"
   },
   {
-    "id": "22",
-    "category": "fashion",
-    "type": "Formal",
-    "name": "Formal Pockets",
+    "id": "17",
+    "category": "Caps",
+    "type": "caps",
+    "name": "caps5",
     "gender": "men",
     "new": false,
     "sale": true,
@@ -951,49 +807,44 @@
     ],
     "variation": [
       {
-        "color": "green",
-        "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "white",
+        "colorCode": "#fff",
+        "colorImage": "/images/product/caps/102-73-72.jpg",
+        "image": "/images/product/caps/102-73-72.jpg"
       },
       {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "blue",
+        "colorCode": "#0000ff",
+        "colorImage": "/images/product/caps/102-73-75.jpg",
+        "image": "/images/product/caps/102-73-75.jpg"
       },
       {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "light black",
+        "colorCode": "#454545",
+        "colorImage": "/images/product/caps/102-74.jpg",
+        "image": "/images/product/caps/102-74.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/caps/102-74.jpg",
+      "/images/product/caps/102-73-75.jpg"
+   
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/caps/102-73-72.jpg",
+      "/images/product/caps/102-74.jpg",
+      "/images/product/caps/102-75.jpg",
+      "/images/product/caps/102-76.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "Formal"
+    "slug": "caps5"
   },
   {
-    "id": "23",
-    "category": "fashion",
-    "type": "Formal",
-    "name": "Formal Pockets",
+    "id": "18",
+    "category": "Caps",
+    "type": "caps",
+    "name": "caps6",
     "gender": "men",
     "new": false,
     "sale": true,
@@ -1012,50 +863,45 @@
       "2XL"
     ],
     "variation": [
+      
       {
-        "color": "green",
-        "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "yellow",
+        "colorCode": "#BA8E23",
+        "colorImage": "/images/product/caps/103-78-79.jpg",
+        "image": "/images/product/caps/103-78-79.jpg"
       },
       {
         "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "colorCode": "#fff000",
+        "colorImage": "/images/product/caps/103-80-81.jpg",
+        "image": "/images/product/caps/103-80-81.jpg"
       },
       {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "light yellow",
+        "colorCode": "#ffffed",
+        "colorImage": "/images/product/caps/103-81.jpg",
+        "image": "/images/product/caps/103-81.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/caps/103-80-81.jpg",
+      "/images/product/caps/103-78-79.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/caps/103-80-81.jpg",
+      "/images/product/caps/103-78-79.jpg",
+      "/images/product/caps/103-82.jpg",
+      "/images/product/caps/103-81.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "Formal"
+    "slug": "caps6"
   },
   {
-    "id": "17",
-    "category": "fashion",
-    "type": "Formal",
-    "name": "mesh shirt",
+    "id": "19",
+    "category": "Caps",
+    "type": "caps",
+    "name": "caps7",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -1074,49 +920,37 @@
     ],
     "variation": [
       {
-        "color": "green",
-        "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "dark-grey",
+        "colorCode": "#a9a9",
+        "colorImage": "/images/product/caps/104-84.jpg",
+        "image": "/images/product/caps/104-84.jpg"
       },
       {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "grey",
+        "colorCode": "#a9a9a9",
+        "colorImage": "/images/product/caps/104-85.jpg",
+        "image": "/images/product/caps/104-85.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/caps/104-85.jpg",
+      "/images/product/caps/104-84.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/caps/104-84.jpg",
+      "/images/product/caps/104-85.jpg",
+      "/images/product/caps/104-87.jpg",
+      "/images/product/caps/104-88.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "mesh-shirt"
+    "slug": "caps7"
   },
   {
-    "id": "18",
-    "category": "fashion",
-    "type": "Formal",
-    "name": "Raglan Sleeve Causal",
+    "id": "20",
+    "category": "Caps",
+    "type": "caps",
+    "name": "caps8",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -1137,49 +971,31 @@
     ],
     "variation": [
       {
-        "color": "green",
-        "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
         "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "colorCode": "#fff000",
+        "colorImage": "/images/product/caps/105-90-91.jpg",
+        "image": "/images/product/caps/105-90-91.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/caps/105-94.jpg",
+      "/images/product/caps/105-90-91.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/caps/105-90-93.jpg",
+      "/images/product/caps/105-91.jpg",
+      "/images/product/caps/105-94.jpg",
+      "/images/product/caps/105-90-91.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "shirt"
+    "slug": "caps8"
   },
   {
-    "id": "19",
-    "category": "fashion",
-    "type": "Gloves",
-    "name": "Off-the-Shoulder Blouse",
+    "id": "21",
+    "category": "Caps",
+    "type": "caps",
+    "name": "caps9",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -1195,49 +1011,37 @@
     ],
     "variation": [
       {
-        "color": "green",
-        "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "off-white",
+        "colorCode": "#F2F0EF",
+        "colorImage": "/images/product/caps/106-96.jpg",
+        "image": "/images/product/caps/106-96.jpg"
       },
       {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "light brown",
+        "colorCode": "#c4a484",
+        "colorImage": "/images/product/caps/106-100.jpg",
+        "image": "/images/product/caps/106-100.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/caps/106-96.jpg",
+      "/images/product/caps/106-100.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/caps/106-96.jpg",
+      "/images/product/caps/106-97.jpg",
+      "/images/product/caps/106-97.jpg",
+      "/images/product/caps/106-97.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "blouse"
+    "slug": "caps9"
   },
   {
-    "id": "20",
-    "category": "fashion",
-    "type": "Champion-Belts",
-    "name": "Kimono sleeve Boxing",
+    "id": "22",
+    "category": "Caps",
+    "type": "caps",
+    "name": "caps10",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -1256,49 +1060,37 @@
     ],
     "variation": [
       {
-        "color": "green",
-        "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "light black",
+        "colorCode": "#454545",
+        "colorImage": "/images/product/caps/107-10-104.jpg",
+        "image": "/images/product/caps/107-10-104.jpg"
       },
       {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "dark brown",
+        "colorCode": "#654321",
+        "colorImage": "/images/product/caps/107-106.jpg",
+        "image": "/images/product/caps/107-106.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/caps/107-106.jpg",
+      "/images/product/caps/107-10-104.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/caps/107-103.jpg",
+      "/images/product/caps/107-104.jpg",
+      "/images/product/caps/107-105-106.jpg",
+      "/images/product/caps/107-106.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "kimono"
+    "slug": "caps10"
   },
   {
-    "id": "21",
-    "category": "fashion",
-    "type": "Causal",
-    "name": "Causal Pockets",
+    "id": "23",
+    "category": "Caps",
+    "type": "caps",
+    "name": "caps11",
     "gender": "men",
     "new": false,
     "sale": true,
@@ -1318,49 +1110,31 @@
     ],
     "variation": [
       {
-        "color": "green",
-        "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "black",
+        "colorCode": "#000",
+        "colorImage": "/images/product/caps/108-113.jpg",
+        "image": "/images/product/caps/108-113.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/caps/108-115.jpg",
+      "/images/product/caps/108-116.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/caps/108-114.jpg",
+      "/images/product/caps/108-115.jpg",
+      "/images/product/caps/108-116.jpg",
+      "/images/product/caps/108-117.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "Causal"
+    "slug": "caps11"
   },
   {
     "id": "24",
-    "category": "fashion",
-    "type": "Causal",
-    "name": "Causal Pockets",
+    "category": "Champion-Belts",
+    "type": "championbelt",
+    "name": "champonbelt-1",
     "gender": "men",
     "new": false,
     "sale": true,
@@ -1380,49 +1154,31 @@
     ],
     "variation": [
       {
-        "color": "green",
-        "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "gold",
+        "colorCode": "#FFD700",
+        "colorImage": "/images/product/championbelts/75-01.jpg",
+        "image": "/images/product/championbelts/75-01.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/championbelts/75-01.jpg",
+      "/images/product/championbelts/75-02.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/championbelts/75-16.jpg",
+      "/images/product/championbelts/75-03.jpg",
+      "/images/product/championbelts/75-01.jpg",
+      "/images/product/championbelts/75-02.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "Causal"
+    "slug": "championbelt-1"
   },
   {
-    "id": "241",
-    "category": "fashion",
-    "type": "Causal",
-    "name": "Causal Pockets",
+    "id": "25",
+    "category": "Champion-Belts",
+    "type": "championbelt",
+    "name": "champonbelt-2",
     "gender": "men",
     "new": false,
     "sale": true,
@@ -1442,36 +1198,50 @@
     ],
     "variation": [
       {
-        "color": "white",
-        "colorCode": "#F6EFDD",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "blue",
+        "colorCode": "#0000ff",
+        "colorImage": "/images/product/championbelts/76-18.jpg",
+        "image": "/images/product/championbelts/76-18.jpg"
       },
       {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "black",
+        "colorCode": "#000",
+        "colorImage": "/images/product/championbelts/76-19.jpg",
+        "image": "/images/product/championbelts/76-19.jpg"
+      },
+      {
+        "color": "gold",
+        "colorCode": "#FFD700",
+        "colorImage": "/images/product/championbelts/76-20.jpg",
+        "image": "/images/product/championbelts/76-20.jpg"
+      },
+      {
+        "color": "red",
+        "colorCode": "#ff0000",
+        "colorImage": "/images/product/championbelts/76-21.jpg",
+        "image": "/images/product/championbelts/76-21.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/championbelts/76-21.jpg",
+      "/images/product/championbelts/76-19.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/championbelts/76-18.jpg",
+      "/images/product/championbelts/76-19.jpg",
+      "/images/product/championbelts/76-20.jpg",
+      "/images/product/championbelts/76-21.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "Causal"
+    "slug": "championbelt-2"
   },
   {
-    "id": "25",
-    "category": "fashion",
-    "type": "shirt",
-    "name": "Shirt Pockets",
-    "gender": "men",
+    "id": "26",
+    "category": "Chest-Guard",
+    "type": "ChestGaurd",
+    "name": "ChestGaurd-1",
+   " gender": "men",
     "new": false,
     "sale": true,
     "rate": 5,
@@ -1490,49 +1260,32 @@
     ],
     "variation": [
       {
-        "color": "green",
-        "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "white",
+        "colorCode": "#ffff",
+        "colorImage": "/images/product/ChestGuard/34-01.jpg",
+        "image": "/images/product/ChestGuard/34-01.jpg"
       }
+      
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/ChestGuard/34-02.jpg",
+      "/images/product/ChestGuard/34-01.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/ChestGuard/34-03.jpg",
+      "/images/product/ChestGuard/34-04.jpg",
+      "/images/product/ChestGuard/34-05.jpg",
+      "/images/product/ChestGuard/34-02.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "Causal"
+    "slug": "ChestGuard-1"
   },
   {
-    "id": "26",
-    "category": "fashion",
-    "type": "shirt",
-    "name": "Causal Pockets",
+    "id": "27",
+    "category": "Chest-Guard",
+    "type": "ChestGaurd",
+    "name": "ChestGaurd-2",
     "gender": "men",
     "new": false,
     "sale": true,
@@ -1551,50 +1304,46 @@
       "2XL"
     ],
     "variation": [
-      {
-        "color": "green",
-        "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
+     
       {
         "color": "red",
         "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "colorImage": "/images/product/ChestGuard/35-07.jpg",
+        "image": "/images/product/ChestGuard/35-07.jpg"
       },
       {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "black",
+        "colorCode": "#000",
+        "colorImage": "/images/product/ChestGuard/35-08.jpg",
+        "image": "/images/product/ChestGuard/35-08.jpg"
       },
+    
       {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "blue",
+        "colorCode": "#0000ff",
+        "colorImage": "/images/product/ChestGuard/35-10.jpg",
+        "image": "/images/product/ChestGuard/35-10.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/ChestGuard/35-07.jpg",
+      "/images/product/ChestGuard/35-11.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/ChestGuard/35-07.jpg",
+      "/images/product/ChestGuard/35-08.jpg",
+      "/images/product/ChestGuard/35-09.jpg",
+      "/images/product/ChestGuard/35-11.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "Causal"
+    "slug": "ChestGuard-2"
   },
   {
-    "id": "27",
-    "category": "fashion",
-    "type": "shirt",
-    "name": "Bags Pockets",
+    "id": "28",
+    "category": "Chest-Guard",
+    "type": "ChestGaurd",
+    "name": "ChestGaurd-3",
     "gender": "men",
     "new": false,
     "sale": true,
@@ -1614,49 +1363,31 @@
     ],
     "variation": [
       {
-        "color": "green",
-        "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "black",
+        "colorCode": "#000",
+        "colorImage": "/images/product/ChestGuard/36-13.jpg",
+        "image": "/images/product/ChestGuard/36-13.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/ChestGuard/36-14.jpg",
+      "/images/product/ChestGuard/36-15.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/ChestGuard/36-13.jpg",
+      "/images/product/ChestGuard/36-15.jpg",
+      "/images/product/ChestGuard/36-16.jpg",
+      "/images/product/ChestGuard/36-17.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "Bags"
+    "slug": "ChestGuard-3"
   },
   {
-    "id": "28",
-    "category": "fashion",
-    "type": "underwear",
-    "name": "Kimono sleeve Boxing",
+    "id": "29",
+    "category": "Chest-Guard",
+    "type": "ChestGaurd",
+    "name": "ChestGuard-4",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -1675,49 +1406,33 @@
     ],
     "variation": [
       {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "black",
-        "colorCode": "#555",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "black"
+        ,
+        "colorCode": "#000",
+        "colorImage": "/images/product/ChestGuard/37-19.jpg",
+        "image": "/images/product/ChestGuard/37-19.jpg"
       }
+      
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/ChestGuard/37-20.jpg",
+      "/images/product/ChestGuard/37-21.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/ChestGuard/37-19.jpg",
+      "/images/product/ChestGuard/37-23.jpg",
+      "/images/product/ChestGuard/37-21.jpg",
+      "/images/product/ChestGuard/37-22.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "kimono"
+    "slug": "ChestGuard-4"
   },
   {
-    "id": "29",
-    "category": "fashion",
-    "type": "swimwear",
-    "name": "mesh shirt",
+    "id": "30",
+    "category": "Chest-Guard",
+    "type": "ChestGaurd",
+    "name": "ChestGuard-5",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -1735,50 +1450,33 @@
       "XL"
     ],
     "variation": [
-      {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
+      
       {
         "color": "red",
         "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "black",
-        "colorCode": "#555",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "colorImage": "/images/product/ChestGuard/38-25.jpg",
+        "image": "/images/product/ChestGuard/38-25.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/ChestGuard/38-26.jpg",
+      "/images/product/ChestGuard/38-27.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/ChestGuard/38-26.jpg",
+      "/images/product/ChestGuard/38-27.jpg",
+      "/images/product/ChestGuard/38-28.jpg",
+      "/images/product/ChestGuard/38-29.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "mesh-shirt"
+    "slug": "ChestGuard-5"
   },
   {
-    "id": "30",
-    "category": "fashion",
-    "type": "swimwear",
-    "name": "Raglan Sleeve Bags",
+    "id": "31",
+    "category": "Chest-Guard",
+    "type": "ChestGaurd",
+    "name": "ChestGuard-6",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -1798,50 +1496,33 @@
       "2XL"
     ],
     "variation": [
+     
       {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "black",
-        "colorCode": "#555",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "white",
+        "colorCode": "#ffff",
+        "colorImage": "/images/product/ChestGuard/39-31.jpg",
+        "image": "/images/product/ChestGuard/39-31.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/ChestGuard/39-31.jpg",
+      "/images/product/ChestGuard/39-32.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/ChestGuard/39-31.jpg",
+      "/images/product/ChestGuard/39-33.jpg",
+      "/images/product/ChestGuard/39-34.jpg",
+      "/images/product/ChestGuard/39-35.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "shirt"
+    "slug": "ChestGuard-6"
   },
   {
-    "id": "31",
-    "category": "fashion",
-    "type": "underwear",
-    "name": "Off-the-Shoulder Blouse",
+    "id": "32",
+    "category": "Chest-Guard",
+    "type": "ChestGaurd",
+    "name": "ChestGaurd-7",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -1856,50 +1537,33 @@
       "freesize"
     ],
     "variation": [
-      {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
+     
       {
         "color": "black",
-        "colorCode": "#555",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "colorCode": "#000",
+        "colorImage": "/images/product/ChestGuard/40-37.jpg",
+        "image": "/images/product/ChestGuard/40-37.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/ChestGuard/40-37.jpg",
+      "/images/product/ChestGuard/40-38.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/ChestGuard/40-37.jpg",
+      "/images/product/ChestGuard/40-38.jpg",
+      "/images/product/ChestGuard/40-39.jpg",
+      "/images/product/ChestGuard/40-40.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "blouse"
+    "slug": "ChestGuard-7"
   },
   {
-    "id": "32",
-    "category": "fashion",
-    "type": "swimwear",
-    "name": "Kimono sleeve Boxing",
+    "id": "33",
+    "category": "Chest-Guard",
+    "type": "ChestGaurd",
+    "name": "ChestGaurd-8",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -1918,49 +1582,31 @@
     ],
     "variation": [
       {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
         "color": "black",
-        "colorCode": "#555",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "colorCode": "#000",
+        "colorImage": "/images/product/ChestGuard/41-43.jpg",
+        "image": "/images/product/ChestGuard/41-43.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/ChestGuard/41-44.jpg",
+      "/images/product/ChestGuard/41-45.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/ChestGuard/41-43.jpg",
+      "/images/product/ChestGuard/41-44.jpg",
+      "/images/product/ChestGuard/41-45.jpg",
+      "/images/product/ChestGuard/41-46.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "kimono"
+    "slug": "ChestGuard-8"
   },
   {
-    "id": "33",
-    "category": "fashion",
-    "type": "underwear",
-    "name": "Bags Pockets",
+    "id": "34",
+    "category": "Hand-Wraps",
+    "type": "HandWraps",
+    "name": "HandWraps-1",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -1980,49 +1626,31 @@
     ],
     "variation": [
       {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "black",
-        "colorCode": "#555",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "white",
+        "colorCode": "#ffff",
+        "colorImage": "/images/product/HandWraps/69-31.jpg",
+        "image": "/images/product/HandWraps/69-31.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/HandWraps/69-31.jpg",
+      "/images/product/HandWraps/69-32.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/HandWraps/69-31.jpg",
+      "/images/product/HandWraps/69-32.jpg",
+      "/images/product/HandWraps/69-33.jpg",
+      "/images/product/HandWraps/69-35.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "Bags"
+    "slug": "HandWraps-1"
   },
   {
-    "id": "34",
-    "category": "fashion",
-    "type": "underwear",
-    "name": "Bags Pockets",
+    "id": "35",
+    "category": "Hand-Wraps",
+    "type": "HandWraps",
+    "name": "HandWraps-2",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -2042,42 +1670,31 @@
     ],
     "variation": [
       {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
         "color": "black",
-        "colorCode": "#555",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "colorCode": "#000",
+        "colorImage": "/images/product/HandWraps/70-37.jpg",
+        "image": "/images/product/HandWraps/70-37.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/HandWraps/70-37.jpg",
+      "/images/product/HandWraps/70-38.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/HandWraps/70-38.jpg",
+      "/images/product/HandWraps/70-39.jpg",
+      "/images/product/HandWraps/70-40.jpg",
+      "/images/product/HandWraps/70-41.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "Bags"
+    "slug": "HandWraps-2"
   },
   {
-    "id": "35",
-    "category": "fashion",
-    "type": "swimwear",
-    "name": "Bags Pockets",
+    "id": "36",
+    "category": "Hand-Wraps",
+    "type": "HandWraps",
+    "name": "HandWraps-3",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -2097,43 +1714,43 @@
     ],
     "variation": [
       {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "black",
+        "colorCode": "#000",
+        "colorImage": "/images/product/HandWraps/71-43.jpg",
+        "image": "/images/product/HandWraps/71-43.jpg"
       },
       {
         "color": "red",
         "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "colorImage": "/images/product/HandWraps/71-45.jpg",
+        "image": "/images/product/HandWraps/71-45.jpg"
       },
       {
-        "color": "black",
-        "colorCode": "#555",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "white",
+        "colorCode": "#fff",
+        "colorImage": "/images/product/HandWraps/71-44.jpg",
+        "image": "/images/product/HandWraps/71-44.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/HandWraps/71-43.jpg",
+      "/images/product/HandWraps/71-44.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/HandWraps/71-43.jpg",
+      "/images/product/HandWraps/71-44.jpg",
+      "/images/product/HandWraps/71-45.jpg",
+      "/images/product/HandWraps/71-46.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "Bags"
+    "slug": "HandWraps-3"
   },
   {
-    "id": "36",
-    "category": "fashion",
-    "type": "swimwear",
-    "name": "Bags Pockets",
+    "id": "37",
+    "category": "Hand-Wraps",
+    "type": "HandWraps",
+    "name": "HandWraps-4",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -2153,37 +1770,37 @@
     ],
     "variation": [
       {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "black",
+        "colorCode": "#000",
+        "colorImage": "/images/product/HandWraps/72-50.jpg",
+        "image": "/images/product/HandWraps/72-50.jpg"
       },
       {
-        "color": "purple",
-        "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "orange",
+        "colorCode": "#ffa500",
+        "colorImage": "/images/product/HandWraps/72-52.jpg",
+        "image": "/images/product/HandWraps/72-52.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/HandWraps/72-50.jpg",
+      "/images/product/HandWraps/72-52.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/HandWraps/72-50.jpg",
+      "/images/product/HandWraps/72-51.jpg",
+      "/images/product/HandWraps/72-52.jpg",
+      "/images/product/HandWraps/72-53.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "Bags"
+    "slug": "HandWraps-4"
   },
   {
-    "id": "37",
-    "category": "fashion",
-    "type": "swimwear",
-    "name": "Shirt Pockets",
+    "id": "38",
+    "category": "Groin-Guard",
+    "type": "GroinGuard",
+    "name": "GroinGuard-1",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -2202,44 +1819,33 @@
       "2XL"
     ],
     "variation": [
-      {
-        "color": "white",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
+      
       {
         "color": "black",
         "colorCode": "#1F1F1F",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "colorImage": "/images/product/GroinGuard/51-01.jpg",
+        "image": "/images/product/GroinGuard/51-02.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/GroinGuard/51-01.jpg",
+      "/images/product/GroinGuard/51-02.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/GroinGuard/51-02.jpg",
+      "/images/product/GroinGuard/51-03.jpg",
+      "/images/product/GroinGuard/51-04.jpg",
+      "/images/product/GroinGuard/51-05.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "Bags"
+    "slug": "GroinGuard-1"
   },
   {
-    "id": "38",
-    "category": "fashion",
-    "type": "swimwear",
-    "name": "Bags Pockets",
+    "id": "39",
+    "category": "Groin-Guard",
+    "type": "GroinGuard",
+    "name": "GroinGuard-2",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -2259,37 +1865,37 @@
     ],
     "variation": [
       {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "white",
+        "colorCode": "#fff",
+        "colorImage": "/images/product/GroinGuard/52-07.jpg",
+        "image": "/images/product/GroinGuard/52-07.jpg"
       },
       {
         "color": "black",
-        "colorCode": "#555",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "colorCode": "#000",
+        "colorImage": "/images/product/GroinGuard/52-08.jpg",
+        "image": "/images/product/GroinGuard/52-08.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/GroinGuard/52-07.jpg",
+      "/images/product/GroinGuard/52-08.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/GroinGuard/52-07.jpg",
+      "/images/product/GroinGuard/52-08.jpg",
+      "/images/product/GroinGuard/52-10.jpg",
+      "/images/product/GroinGuard/52-11.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "Bags"
+    "slug": "GroinGuard-2"
   },
   {
-    "id": "39",
-    "category": "fashion",
-    "type": "swimwear",
-    "name": "Bags Pockets",
+    "id": "40",
+    "category": "Groin-Guard",
+    "type": "GroinGuard",
+    "name": "GroinGuard-3",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -2308,44 +1914,33 @@
       "2XL"
     ],
     "variation": [
+      
       {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "red",
-        "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
-      },
-      {
-        "color": "black",
-        "colorCode": "#555",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/1000x1000.png"
+        "color": "white",
+        "colorCode": "#fff",
+        "colorImage": "/images/product/GroinGuard/53-13.jpg",
+        "image": "/images/product/GroinGuard/53-13.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/GroinGuard/53-13.jpg",
+      "/images/product/GroinGuard/53-14.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/GroinGuard/53-13.jpg",
+      "/images/product/GroinGuard/53-14.jpg",
+      "/images/product/GroinGuard/53-15.jpg",
+      "/images/product/GroinGuard/53-16.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "Bags"
+    "slug": "GroinGuard-3"
   },
   {
-    "id": "391",
-    "category": "fashion",
-    "type": "accessories",
-    "name": "gucci sunglasses",
+    "id": "41",
+    "category": "Groin-Guard",
+    "type": "GroinGuard",
+    "name": "GroinGuard-4",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -2359,28 +1954,45 @@
     "sizes": [],
     "variation": [
       {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/1000x1000.png",
-        "image": "/images/product/1000x1000"
+        "color": "black",
+        "colorCode": "#000",
+        "colorImage": "/images/product/GroinGuard/54-19.jpg",
+        "image": "/images/product/GroinGuard/54-19.jpg"
+      },
+      {
+        "color": "green",
+        "colorCode": "#008000",
+        "colorImage": "/images/product/GroinGuard/54-21.jpg",
+        "image": "/images/product/GroinGuard/54-22.jpg"
+      },
+      {
+        "color": "blue",
+        "colorCode": "#0000ff",
+        "colorImage": "/images/product/GroinGuard/54-23.jpg",
+        "image": "/images/product/GroinGuard/54-23.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/GroinGuard/54-19.jpg",
+      "/images/product/GroinGuard/54-23.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png"
+      "/images/product/GroinGuard/54-19.jpg",
+       "/images/product/GroinGuard/54-20.jpg",
+       "/images/product/GroinGuard/54-21.jpg",
+       "/images/product/GroinGuard/54-22.jpg"
+
+    
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "sunglasses"
+    "slug": "GroinGuard-4"
   },
   {
-    "id": "392",
-    "category": "fashion",
-    "type": "accessories",
-    "name": "women handbag",
+    "id": "42",
+    "category": "Head-Guard",
+    "type": "HeadGuards",
+    "name": "HeadGuards-1",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -2394,28 +2006,43 @@
     "sizes": [],
     "variation": [
       {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/1000x1000.png",
-        "image": "/images/product/1000x1000"
+        "color": "black",
+        "colorCode": "#000",
+        "colorImage": "/images/product/HeadGuards/60-01.jpg",
+        "image": "/images/product/HeadGuards/60-01.jpg"
+      },
+      {
+        "color": "red",
+        "colorCode": "#DB4444",
+        "colorImage": "/images/product/HeadGuards/60-02.jpg",
+        "image": "/images/product/HeadGuards/60-02.jpg"
+      },
+      {
+        "color": "blue",
+        "colorCode": "#0000ff",
+        "colorImage": "/images/product/HeadGuards/60-03.jpg",
+        "image": "/images/product/HeadGuards/60-03.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/HeadGuards/60-01.jpg",
+      "/images/product/HeadGuards/60-02.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png"
+      "/images/product/HeadGuards/60-01.jpg",
+      "/images/product/HeadGuards/60-02.jpg",
+      "/images/product/HeadGuards/60-03.jpg",
+      "/images/product/HeadGuards/60-04.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "handbag"
+    "slug": "HeadGuards-1"
   },
   {
-    "id": "393",
-    "category": "fashion",
-    "type": "accessories",
-    "name": "camouflage hat",
+    "id": "43",
+    "category": "Head-Guard",
+    "type": "HeadGuards",
+    "name": "HeadGuards-2",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -2428,29 +2055,44 @@
     "quantityPurchase": 1,
     "sizes": [],
     "variation": [
+       {
+        "color": "black",
+        "colorCode": "#000",
+        "colorImage": "/images/product/HeadGuards/61-09.jpg",
+        "image": "/images/product/HeadGuards/61-09.jpg"
+      },
       {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/1000x1000.png",
-        "image": "/images/product/1000x1000"
+        "color": "red",
+        "colorCode": "#DB4444",
+        "colorImage": "/images/product/HeadGuards/61-11.jpg",
+        "image": "/images/product/HeadGuards/61-11.jpg"
+      },
+      {
+        "color": "blue",
+        "colorCode": "#0000ff",
+        "colorImage": "/images/product/HeadGuards/61-10.jpg",
+        "image": "/images/product/HeadGuards/61-10.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/HeadGuards/61-09.jpg",
+      "/images/product/HeadGuards/61-10.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png"
+      "/images/product/HeadGuards/61-09.jpg",
+      "/images/product/HeadGuards/61-10.jpg",
+      "/images/product/HeadGuards/61-11.jpg",
+      "/images/product/HeadGuards/61-12.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
-    "slug": "sunglasses"
+    "slug": "HeadGuards-2"
   },
   {
-    "id": "394",
-    "category": "fashion",
-    "type": "accessories",
-    "name": "leather belts",
+    "id": "44",
+    "category": "Head-Guard",
+    "type": "HeadGuards",
+    "name": "HeadGuards-3",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -2464,25 +2106,29 @@
     "sizes": [],
     "variation": [
       {
-        "color": "yellow",
-        "colorCode": "#ECB018",
-        "colorImage": "/images/product/1000x1000.png",
-        "image": "/images/product/1000x1000"
+        "color": "black",
+        "colorCode": "#000",
+        "colorImage": "/images/product/HeadGuards/63-23.jpg",
+        "image": "/images/product/HeadGuards/63-23.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/HeadGuards/63-21.jpg",
+      "/images/product/HeadGuards/63-22.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png"
+      "/images/product/HeadGuards/63-21.jpg",
+      "/images/product/HeadGuards/63-22.jpg",
+      "/images/product/HeadGuards/63-23.jpg",
+      "/images/product/HeadGuards/63-24.jpg"
+
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
-    "slug": "handbag"
+    "slug": "HeadGuard-3"
   },
   {
-    "id": "395",
+    "id": "45",
     "category": "fashion",
     "type": "accessories",
     "name": "one-piece pants",

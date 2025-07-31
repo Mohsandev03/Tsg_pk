@@ -223,7 +223,7 @@ const ShopBreadCrumb1: React.FC<Props> = ({ data, productPerPage, dataType, gend
                                 </div>
                             </div>
                             <div className="list-tab flex flex-wrap items-center justify-center gap-y-5 gap-8 lg:mt-[70px] mt-12 overflow-hidden">
-                                {['Boxing', 'Champion-Belts', 'Chest-Guard', 'Hand-Wraps', 'Groin-Guard', 'Head-Guard', 'Jiu-Jitsu', 'Karate-shoes','Punching-Bags','Punching Paddle','Taekwondo '].map((item, index) => (
+                                {['Boxing', 'Champion-Belts', 'Chest-Guard', 'Hand-Wraps', 'Groin-Guard', 'Head-Guard', 'Jiu-Jitsu', 'Karate-shoes','Punching-Bags','Punching Paddle','Taekwondo','Caps'  ].map((item, index) => (
                                     <div
                                         key={index}
                                         className={`tab-item text-button-uppercase cursor-pointer has-line-before line-2px ${dataType === item ? 'active' : ''}`}
@@ -245,7 +245,7 @@ const ShopBreadCrumb1: React.FC<Props> = ({ data, productPerPage, dataType, gend
                             <div className="filter-type pb-8 border-b border-line">
                                 <div className="heading6">Products Type</div>
                                 <div className="list-type mt-4">
-                                    {['Boxing', 'Champion-Belts', 'Chest-Guard', 'Hand-Wraps', 'Groin-Guard', 'Head-Guard', 'Jiu-Jitsu', 'Karate-shoes','Punching-Bags','Punching Paddle','Taekwondo '].map((item, index) => (
+                                    {['Boxing', 'Champion-Belts', 'Chest-Guard', 'Hand-Wraps', 'Groin-Guard', 'Head-Guard', 'Jiu-Jitsu', 'Karate-shoes','Punching-Bags','Punching Paddle','Taekwondo ','Caps ' ].map((item, index) => (
                                         <div
                                             key={index}
                                             className={`item flex items-center justify-between cursor-pointer ${dataType === item ? 'active' : ''}`}
